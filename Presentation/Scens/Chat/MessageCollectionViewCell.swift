@@ -8,22 +8,32 @@
 
 import UIKit
 
-final class MessageCollectionViewCell: UICollectionViewCell {
-    static let reuseIdentifier = "MessageCollectionViewCell"
+/// A UICollectionViewCell subclass that displays a single chat message using MessageView.
+/// Handles cell configuration and layout for message presentation in a chat interface.
 
+/// Reusable cell representing a single chat message. Embeds MessageView for layout and styling.
+final class MessageCollectionViewCell: UICollectionViewCell {
+    
+    /// Identifier
+    static let reuseIdentifier = "MessageCollectionViewCell"
+    
+    /// Embedded view that renders the message's UI elements.
     private let messageView = MessageView()
 
+    /// Initializes the cell with a frame.
     override init(frame: CGRect) {
         super.init(frame: frame)
 //        setup()
 
     }
     
+    /// Initializes the cell from a storyboard or nib.
     required init?(coder: NSCoder) {
         super.init(coder: coder)
     //    setup()
     }
     
+    /// Sets up the cell by adding and constraining the messageView.
     func setup() {
         contentView.addSubview(messageView)
         messageView.translatesAutoresizingMaskIntoConstraints = false
@@ -36,8 +46,11 @@ final class MessageCollectionViewCell: UICollectionViewCell {
         messageView.autoresizingMask = [.flexibleWidth, .flexibleHeight]
     }
 
+    /// Configures the cell with a MessageEntity.
+    /// - Parameter message: The message object containing data to display.
     func configure(with message: MessageEntity) {
         messageView.configure(message: message)
         self.layoutIfNeeded()
     }
 }
+

@@ -5,24 +5,34 @@
 //  Created by NokNokMac on 01.08.25.
 //
 
-
-
 import UIKit
 import Combine
 
 class ChatViewController: UIViewController {
 
+    // MARK: - Properties
+
+    /// Enum representing the single chat section used in the collection view.
     private enum ChatSection {
         case main
     }
+    /// The view model providing inputs and outputs for the chat.
     var viewModel: ChatViewModelType?
     
+    /// Custom input text view for composing messages.
     private let inputTextView = InputTextView()
+    /// Collection view displaying chat messages.
     private var collectionView: UICollectionView!
+    /// Diffable data source for managing collection view data.
     private var dataSource: UICollectionViewDiffableDataSource<ChatSection, MessageEntity>!
+    /// Set of cancellables for Combine subscriptions.
     private var cancellables = Set<AnyCancellable>()
+    /// Flag used to determine if it's the initial load of messages.
     private var isInitialLoad = true
 
+    // MARK: - Lifecycle
+
+    /// Called after the controller's view is loaded into memory. Sets up UI and binds the view model.
     override func viewDidLoad() {
         super.viewDidLoad()
         view.backgroundColor = .white
@@ -33,11 +43,16 @@ class ChatViewController: UIViewController {
         viewModel?.outputs.loadMessages()
     }
     
-    
-    func inejct(viewModel: ChatViewModelType) {
+    // MARK: - Dependency Injection
+
+    /// Injects the view model dependency into the view controller.
+    func inject(viewModel: ChatViewModelType) {
         self.viewModel = viewModel
     }
 
+    // MARK: - Setup UI
+
+    /// Configures and attaches the input text view for message composition.
     private func setupInputView() {
         inputTextView.attachToView(view)
 
@@ -51,6 +66,7 @@ class ChatViewController: UIViewController {
         }
     }
 
+    /// Sets up the collection view used to display chat messages.
     private func setupCollectionView() {
         collectionView = UICollectionView(frame: .zero, collectionViewLayout: createSectionLayout())
         collectionView.translatesAutoresizingMaskIntoConstraints = false
@@ -76,6 +92,7 @@ class ChatViewController: UIViewController {
         collectionView.addGestureRecognizer(tapGesture)
     }
 
+    /// Configures the diffable data source for the collection view.
     private func configureDataSource() {
         dataSource = UICollectionViewDiffableDataSource<ChatSection, MessageEntity>(
             collectionView: collectionView
@@ -95,6 +112,9 @@ class ChatViewController: UIViewController {
         collectionView.dataSource = dataSource
     }
 
+    // MARK: - View Model Binding
+
+    /// Binds the view model's messages publisher to update the UI reactively.
     private func bindViewModel() {
         viewModel?.outputs.messagesPublisher
             .receive(on: DispatchQueue.main)
@@ -118,6 +138,9 @@ class ChatViewController: UIViewController {
             .store(in: &cancellables)
     }
 
+    // MARK: - Helpers
+
+    /// Scrolls the collection view to the bottom to show the latest message.
     private func scrollToBottom() {
         let count = self.viewModel?.inputs.numberOfMessages() ?? 0
         guard count > 0 else { return }
@@ -125,10 +148,12 @@ class ChatViewController: UIViewController {
         collectionView.scrollToItem(at: indexPath, at: .bottom, animated: false)
     }
 
+    /// Handles tap gestures outside the input view to dismiss the keyboard.
     @objc private func handleTapOutsideInput() {
         view.endEditing(true)
     }
 
+    /// Creates and returns the compositional layout for the collection view section.
     private func createSectionLayout() -> UICollectionViewLayout {
         return UICollectionViewCompositionalLayout { _, _ in
             let itemSize = NSCollectionLayoutSize(widthDimension: .fractionalWidth(1.0), heightDimension: .estimated(50))
@@ -149,6 +174,7 @@ class ChatViewController: UIViewController {
 // MARK: - Prefetching for Pagination
 
 extension ChatViewController: UICollectionViewDataSourcePrefetching {
+    /// Prefetches the next page of messages when the user scrolls near the beginning.
     func collectionView(_ collectionView: UICollectionView, prefetchItemsAt indexPaths: [IndexPath]) {
         guard indexPaths.contains(where: { $0.item < 20 }) else { return }
         self.viewModel?.outputs.loadNextPage()

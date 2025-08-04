@@ -15,14 +15,18 @@ protocol MessageRepositoryProtocol {
     func saveMessage(_ message: MessageEntity) throws
     func fetchExistingIDs() throws -> Set<String>
 }
+
 final class MessageRepository: MessageRepositoryProtocol {
 
+    // Core Data context used for database operations
     private let context: NSManagedObjectContext
 
+    // Default initializer using the shared Core Data stack
     init(context: NSManagedObjectContext = PersistenceController.shared.container.viewContext) {
         self.context = context
     }
 
+    /// Fetches paginated messages from Core Data, ordered by timestamp (newest first)
     func fetchMessages(limit: Int, offset: Int) throws -> [MessageEntity] {
         let fetchRequest: NSFetchRequest<CDMessage> = CDMessage.fetchRequest()
         fetchRequest.sortDescriptors = [NSSortDescriptor(key: "timestamp", ascending: false)]
@@ -30,6 +34,8 @@ final class MessageRepository: MessageRepositoryProtocol {
         fetchRequest.fetchOffset = offset
 
         let cdMessages = try context.fetch(fetchRequest)
+
+        // Reverse to return oldest to newest (e.g., for displaying in chat UI)
         return cdMessages.reversed().map {
             MessageEntity(
                 id: $0.id,
@@ -41,6 +47,7 @@ final class MessageRepository: MessageRepositoryProtocol {
         }
     }
 
+    /// Saves an array of messages to Core Data
     func saveMessages(_ messages: [MessageEntity]) throws {
         messages.forEach { msg in
             let cdMessage = CDMessage(context: context)
@@ -50,9 +57,12 @@ final class MessageRepository: MessageRepositoryProtocol {
             cdMessage.timestamp = ISO8601DateFormatter().date(from: msg.timestamp)!
             cdMessage.author = msg.author
         }
+
+        // Save the context after batch insert
         try context.save()
     }
 
+    /// Saves a single message to Core Data
     func saveMessage(_ message: MessageEntity) throws {
         let cdMessage = CDMessage(context: context)
         cdMessage.id = message.id
@@ -60,9 +70,11 @@ final class MessageRepository: MessageRepositoryProtocol {
         cdMessage.isSender = message.isSender
         cdMessage.timestamp = ISO8601DateFormatter().date(from: message.timestamp)!
         cdMessage.author = message.author
+
         try context.save()
     }
-    
+
+    /// Fetches all existing message IDs from Core Data to prevent duplicates
     func fetchExistingIDs() throws -> Set<String> {
         let fetchRequest: NSFetchRequest<NSFetchRequestResult> = CDMessage.fetchRequest()
         fetchRequest.resultType = .dictionaryResultType
@@ -72,5 +84,4 @@ final class MessageRepository: MessageRepositoryProtocol {
         let ids = results?.compactMap { $0["id"] as? String } ?? []
         return Set(ids)
     }
-
 }

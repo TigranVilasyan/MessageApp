@@ -7,11 +7,16 @@
 
 import UIKit
 
-import UIKit
+/// A reusable input bar component for composing chat messages.
+/// Provides a text input area with a send button and handles keyboard adjustments.
 
+/// A custom input view designed for chat interfaces.
+/// Contains a multiline text view and a send button, dynamically resizing and moving with the keyboard.
 final class InputTextView: UIView {
 
     // MARK: - UI Components
+
+    /// The text view where users enter their message text.
     private let textView: UITextView = {
         let tv = UITextView()
         tv.font = UIFont.systemFont(ofSize: 16)
@@ -23,6 +28,7 @@ final class InputTextView: UIView {
         return tv
     }()
 
+    /// The button that triggers sending the typed message.
     private let sendButton: UIButton = {
         let button = UIButton(type: .system)
         button.setTitle("Send", for: .normal)
@@ -41,6 +47,7 @@ final class InputTextView: UIView {
 
     // MARK: - Private
 
+    /// The bottom layout constraint to adjust the input bar position relative to keyboard or safe area.
     private var bottomConstraint: NSLayoutConstraint?
 
     // MARK: - Init
@@ -63,6 +70,7 @@ final class InputTextView: UIView {
 
     // MARK: - Setup Methods
 
+    /// Configures view hierarchy and initial appearance.
     private func setupViews() {
         backgroundColor = .secondarySystemBackground
         layer.cornerRadius = 16
@@ -74,6 +82,7 @@ final class InputTextView: UIView {
         textView.delegate = self
     }
 
+    /// Sets up Auto Layout constraints for subviews.
     private func setupConstraints() {
         textView.translatesAutoresizingMaskIntoConstraints = false
         sendButton.translatesAutoresizingMaskIntoConstraints = false
@@ -90,10 +99,12 @@ final class InputTextView: UIView {
         ])
     }
 
+    /// Adds target-action for user interactions.
     private func setupActions() {
         sendButton.addTarget(self, action: #selector(handleSend), for: .touchUpInside)
     }
 
+    /// Registers for keyboard show/hide notifications.
     private func setupKeyboardObservers() {
         NotificationCenter.default.addObserver(
             self,
@@ -112,7 +123,7 @@ final class InputTextView: UIView {
 
     // MARK: - Public Method to Attach to Parent View
 
-    /// Adds self to the parent view and setups constraints (including bottom constraint)
+    /// Adds self to the parent view and sets up constraints (including bottom constraint).
     func attachToView(_ parentView: UIView) {
         parentView.addSubview(self)
         translatesAutoresizingMaskIntoConstraints = false
@@ -126,7 +137,7 @@ final class InputTextView: UIView {
         bottomConstraint?.isActive = true
     }
 
-    /// Updates bottom constraint constant (for keyboard offset)
+    /// Updates bottom constraint constant (for keyboard offset).
     func updateBottomConstraint(constant: CGFloat) {
         bottomConstraint?.constant = constant
         superview?.layoutIfNeeded()
@@ -134,6 +145,7 @@ final class InputTextView: UIView {
 
     // MARK: - Actions
 
+    /// Handles tapping the send button: sends non-empty text and clears input.
     @objc private func handleSend() {
         guard let text = textView.text, !text.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty else {
             return
@@ -145,6 +157,7 @@ final class InputTextView: UIView {
 
     // MARK: - Keyboard Notifications
 
+    /// Called when keyboard will show: adjusts bottom constraint to move input bar above keyboard.
     @objc private func keyboardWillShow(_ notification: Notification) {
         guard
             let keyboardFrame = notification.userInfo?[UIResponder.keyboardFrameEndUserInfoKey] as? CGRect,
@@ -162,6 +175,7 @@ final class InputTextView: UIView {
         }
     }
 
+    /// Called when keyboard will hide: resets bottom constraint.
     @objc private func keyboardWillHide(_ notification: Notification) {
         guard let duration = notification.userInfo?[UIResponder.keyboardAnimationDurationUserInfoKey] as? TimeInterval else {
             return
@@ -177,6 +191,7 @@ final class InputTextView: UIView {
 
 // MARK: - UITextViewDelegate
 
+/// Implements UITextViewDelegate methods to auto-resize the input bar as the text changes.
 extension InputTextView: UITextViewDelegate {
     func textViewDidChange(_ textView: UITextView) {
         UIView.setAnimationsEnabled(false)

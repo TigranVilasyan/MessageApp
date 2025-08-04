@@ -14,7 +14,7 @@ class ViewControllerAssembly: Assembly {
         container.register(ChatViewController.self) { r in
             let vc = ChatViewController()
             let viewModel = container.resolve(ChatViewModelType.self)!
-            vc.inejct(viewModel: viewModel)
+            vc.inject(viewModel: viewModel)
             return vc
         }.inObjectScope(.container)
     }
