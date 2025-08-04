@@ -1,0 +1,7002 @@
+[
+  {
+    "id": "bbb99040-673b-47c2-aae6-bcdde6d75122",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-01T12:00:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "1cfa4670-c9c7-4c25-b2e7-ca893df8f8e9",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-01T12:01:00Z",
+    "author": "You"
+  },
+  {
+    "id": "5c4fd94f-2181-4074-960b-c2957cfd60c8",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-01T12:02:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "e84754b9-5367-48c4-81b4-e9d679b7eed2",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T12:03:00Z",
+    "author": "You"
+  },
+  {
+    "id": "5dfd6f7e-04ef-4018-93e1-135d67edad99",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-01T12:04:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "ada1177a-2577-4e0a-b2dc-6ce4cdd54e66",
+    "text": "This is a test.",
+    "isSender": true,
+    "timestamp": "2025-01-01T12:05:00Z",
+    "author": "You"
+  },
+  {
+    "id": "6b8b621c-8cd2-4804-b671-2dd1b4a0de50",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-01T12:06:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "bc41dd7d-eedc-4886-9875-637c8dda573e",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-01T12:07:00Z",
+    "author": "You"
+  },
+  {
+    "id": "52567f76-3707-4500-82b3-c82f95fb47e9",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T12:08:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "273463de-dbb7-4f2d-b462-9521b06be589",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-01T12:09:00Z",
+    "author": "You"
+  },
+  {
+    "id": "568d5777-3cc3-453f-9821-faf2c98c72f6",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-01T12:10:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "ee929480-d4cb-467d-9976-3970dd973764",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-01T12:11:00Z",
+    "author": "You"
+  },
+  {
+    "id": "8a9f817d-f1a7-4032-803f-3b69bb597092",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-01T12:12:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "b1b30bdc-93fa-485c-9811-f5ac02e8908c",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-01T12:13:00Z",
+    "author": "You"
+  },
+  {
+    "id": "5005f992-4c67-49eb-9725-7efe623004a0",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-01T12:14:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "6ea40e71-cef0-468f-b2b7-0e4dd71a09de",
+    "text": "Hello!",
+    "isSender": true,
+    "timestamp": "2025-01-01T12:15:00Z",
+    "author": "You"
+  },
+  {
+    "id": "263ac9a3-c698-491c-aaa9-d3dee868fa84",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-01T12:16:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "1580669a-6853-4ff4-845f-37ed7ba07d9b",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-01T12:17:00Z",
+    "author": "You"
+  },
+  {
+    "id": "8ae52288-daca-4ad0-b4fc-3d110daed86e",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-01T12:18:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "00d8c06c-04b0-44b1-805d-62aef841e476",
+    "text": "Hello!",
+    "isSender": true,
+    "timestamp": "2025-01-01T12:19:00Z",
+    "author": "You"
+  },
+  {
+    "id": "93448115-6ed0-4e06-815e-3cf8deaacb1a",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-01T12:20:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "d5aae62b-9a91-45c2-8220-143db4a433cd",
+    "text": "JSON data incoming.",
+    "isSender": false,
+    "timestamp": "2025-01-01T12:21:00Z",
+    "author": "You"
+  },
+  {
+    "id": "c1fcf2c3-3cac-4d5d-ae8a-fe931e1208f1",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-01T12:22:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "33f9a75c-0be1-440c-a50d-1356c018e44a",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T12:23:00Z",
+    "author": "You"
+  },
+  {
+    "id": "203d17bc-9981-400d-b139-98dffe26fc51",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T12:24:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "70affadb-145e-417d-a7f1-66a8add489c5",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-01T12:25:00Z",
+    "author": "You"
+  },
+  {
+    "id": "2d9e3235-13fc-482f-b0f1-515811c9129d",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T12:26:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "1b6e7193-b364-4266-8611-8f6530a7027d",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-01T12:27:00Z",
+    "author": "You"
+  },
+  {
+    "id": "bd452580-810c-4684-bfa8-4929ce243678",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T12:28:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "9bea3359-7664-4b8c-b946-413241ac834c",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T12:29:00Z",
+    "author": "You"
+  },
+  {
+    "id": "e480add0-33ce-4d75-a7fb-e715e9558aa5",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T12:30:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "c998c723-b2a3-46d1-baf7-cb05aebbabaf",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T12:31:00Z",
+    "author": "You"
+  },
+  {
+    "id": "c42ab880-5a9c-419f-a773-a6aa429f27c7",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T12:32:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "56e3945f-7fde-4262-8366-dce81f473bd4",
+    "text": "Hello!",
+    "isSender": true,
+    "timestamp": "2025-01-01T12:33:00Z",
+    "author": "You"
+  },
+  {
+    "id": "c2f51c71-3755-47da-b1a4-f4839e7ade34",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-01T12:34:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "f2a9619e-14f6-45eb-b8e6-3e13f58ad697",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T12:35:00Z",
+    "author": "You"
+  },
+  {
+    "id": "79f2f422-cf07-46e6-94f0-b8d7ff5af3a4",
+    "text": "This is a test.",
+    "isSender": true,
+    "timestamp": "2025-01-01T12:36:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "7056c6d1-c894-4c2d-bd84-b2116de66fc5",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-01T12:37:00Z",
+    "author": "You"
+  },
+  {
+    "id": "663b635a-8ded-4184-ae77-240860600312",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-01T12:38:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "00a4bb03-0d54-4fb4-a730-e4868054345d",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T12:39:00Z",
+    "author": "You"
+  },
+  {
+    "id": "d2cfe3a2-1674-4a6e-922c-56e6cad4b289",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T12:40:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "de0d0b7c-4cb9-4d93-9e44-1bc2709e1664",
+    "text": "Hello!",
+    "isSender": true,
+    "timestamp": "2025-01-01T12:41:00Z",
+    "author": "You"
+  },
+  {
+    "id": "f8a03767-791f-4ab5-a729-7ebe4c73d25a",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-01T12:42:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "1f91cb86-5b3d-4cf5-bb8b-ab2ce4e87223",
+    "text": "This is a test.",
+    "isSender": true,
+    "timestamp": "2025-01-01T12:43:00Z",
+    "author": "You"
+  },
+  {
+    "id": "02680d19-bed1-4dc2-a692-60c4ca38069b",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-01T12:44:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "372c6fd8-b4ca-4252-9afb-ab92e83b1a80",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T12:45:00Z",
+    "author": "You"
+  },
+  {
+    "id": "4e79b159-0437-4807-80b4-f2ea9e1015a0",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-01T12:46:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "61fd297b-e86c-4880-9e8b-aa0a9f126efb",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-01T12:47:00Z",
+    "author": "You"
+  },
+  {
+    "id": "2e09fa8a-16f8-4704-b240-c6ddde3a4cf5",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-01T12:48:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "60ee957e-2d85-4844-b0e6-9e65722172cc",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-01T12:49:00Z",
+    "author": "You"
+  },
+  {
+    "id": "e15c68d1-69e8-48cf-aa6a-56e0d13e4723",
+    "text": "JSON data incoming.",
+    "isSender": false,
+    "timestamp": "2025-01-01T12:50:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "86e70366-7444-4010-a220-d6ac435a1203",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-01T12:51:00Z",
+    "author": "You"
+  },
+  {
+    "id": "a7992510-df7c-4f05-a8e6-3c1e20d33fa6",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-01T12:52:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "f237cf3f-2e24-45d7-89d8-8f6af2583069",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-01T12:53:00Z",
+    "author": "You"
+  },
+  {
+    "id": "d2ab2595-293a-4ac7-9a40-430ff013d194",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T12:54:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "51e10693-720e-40d4-937e-20383639fc49",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-01T12:55:00Z",
+    "author": "You"
+  },
+  {
+    "id": "4f29a77a-eb89-4a64-8202-a24d3e0ca7ad",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-01T12:56:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "0ef79c3a-ac87-4cdb-b497-16172913eb8d",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T12:57:00Z",
+    "author": "You"
+  },
+  {
+    "id": "16859e23-8421-4940-97f1-7bbc0a180b1c",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T12:58:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "6bc2f5da-5b78-43f4-8a8c-4ce694f46ae8",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-01T12:59:00Z",
+    "author": "You"
+  },
+  {
+    "id": "923141a9-7b3d-49c3-b0aa-ead8fe43cdcc",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T13:00:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "d0e71168-eebd-4f14-bb6d-cf6c6581437c",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T13:01:00Z",
+    "author": "You"
+  },
+  {
+    "id": "f00df354-9d52-48ad-a9ef-0d5bd0b961d7",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T13:02:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "d1be5ca0-6609-404b-9d21-9e435da439b2",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T13:03:00Z",
+    "author": "You"
+  },
+  {
+    "id": "00be78e5-089c-4ff1-9c18-5a636dc77210",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T13:04:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "4293ef75-a2dd-4a38-9438-f45befac49dd",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-01T13:05:00Z",
+    "author": "You"
+  },
+  {
+    "id": "a2a56fa4-d439-498b-8ba8-affc08951e65",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T13:06:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "97525e67-6ef5-4af7-86ce-199351929149",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-01T13:07:00Z",
+    "author": "You"
+  },
+  {
+    "id": "2c041f59-fe51-4aa7-830f-d582e2d14ef7",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T13:08:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "e7b9dea6-262e-4758-9dfe-73488bc50108",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T13:09:00Z",
+    "author": "You"
+  },
+  {
+    "id": "aa6c2bb2-544a-4feb-a1b5-b2a5cd8a352f",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T13:10:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "e63cb583-c44a-45d5-8f25-19ec099fef15",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T13:11:00Z",
+    "author": "You"
+  },
+  {
+    "id": "1b32be0b-0597-4ead-84d2-a31fa846807c",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T13:12:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "99cbe335-697a-485b-9f84-8c10631f6401",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-01T13:13:00Z",
+    "author": "You"
+  },
+  {
+    "id": "9d94f97e-eb1e-4bf8-817c-2bdc0efa38ca",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T13:14:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "2aa4c4fb-d879-4402-93f8-5fa3a9646ad4",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T13:15:00Z",
+    "author": "You"
+  },
+  {
+    "id": "79976ce7-d2d5-40e6-957c-7ab604a832e1",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-01T13:16:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "2b0632a4-753d-4372-8f02-022bea0a3b51",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-01T13:17:00Z",
+    "author": "You"
+  },
+  {
+    "id": "1da8fca1-d4b4-4aef-b688-9055b56882e8",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T13:18:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "55fa17d7-2055-4715-9e38-6bacc6a01886",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-01T13:19:00Z",
+    "author": "You"
+  },
+  {
+    "id": "c73db0f2-1a2b-42be-be4a-c73efab4a127",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T13:20:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "158f734d-7bd4-41c8-82b2-1c4d28371bfd",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-01T13:21:00Z",
+    "author": "You"
+  },
+  {
+    "id": "d3926970-ae38-4447-8325-6643e2ee5b34",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T13:22:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "932ec2b8-0f9e-4f43-b06c-afdb86fbc7dc",
+    "text": "This is a test.",
+    "isSender": true,
+    "timestamp": "2025-01-01T13:23:00Z",
+    "author": "You"
+  },
+  {
+    "id": "f8c23bc2-67be-43ff-aaba-e70c745000ad",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-01T13:24:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "2439e2b5-e8aa-423d-ae8b-b4e0fa7be08f",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-01T13:25:00Z",
+    "author": "You"
+  },
+  {
+    "id": "678942a9-f34f-43bb-8c92-86d38608ccf8",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-01T13:26:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "d0a9d053-0a1c-4789-8e1b-e5405457064e",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T13:27:00Z",
+    "author": "You"
+  },
+  {
+    "id": "cd55523f-7c8f-448c-b7bd-7b4c224a0bb0",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T13:28:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "b228066d-efdb-4d82-bba2-585589994281",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-01T13:29:00Z",
+    "author": "You"
+  },
+  {
+    "id": "f19b58d4-30fd-4b6e-acbc-1ab565b4eff7",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T13:30:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "f33a4d90-2449-432e-aab3-1590de597942",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T13:31:00Z",
+    "author": "You"
+  },
+  {
+    "id": "8a03fa0c-6bda-475c-910e-59b081bbdffb",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-01T13:32:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "45216a27-4071-409b-a2ad-c5cd594a9969",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-01T13:33:00Z",
+    "author": "You"
+  },
+  {
+    "id": "abc353ec-a945-4591-9bd4-6b3adaad92f6",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-01T13:34:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "c0b1ff24-90f6-4ccf-8fc6-09cdd328115b",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T13:35:00Z",
+    "author": "You"
+  },
+  {
+    "id": "b19a26d1-9922-4976-af08-7874e6510f67",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T13:36:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "bc6b09cd-41e3-48ee-a23d-57987fd871db",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-01T13:37:00Z",
+    "author": "You"
+  },
+  {
+    "id": "4d5b9127-9038-41d5-b021-0717291f5bdc",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-01T13:38:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "a935fcce-44f9-4e77-8827-b55b7285ab32",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T13:39:00Z",
+    "author": "You"
+  },
+  {
+    "id": "c0456103-4170-4e2c-97f8-af740cb22101",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-01T13:40:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "aca02f54-d624-4ccd-b5a4-ae8c54b4101f",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-01T13:41:00Z",
+    "author": "You"
+  },
+  {
+    "id": "e2e6aa65-ae17-4eb8-9ff0-b95217f9f50b",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T13:42:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "609bdfc9-217e-4bc1-a531-be819ddd2aa4",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-01T13:43:00Z",
+    "author": "You"
+  },
+  {
+    "id": "d2300ea6-2f7b-4791-b9d6-b34c62a5dd11",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T13:44:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "36883c8b-e29f-431b-a003-5e5efb394c34",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-01T13:45:00Z",
+    "author": "You"
+  },
+  {
+    "id": "a3aec911-63fc-4fdb-ac29-25548cb2ccfa",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T13:46:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "c92560f6-2ebd-493e-8861-0243aefb79d3",
+    "text": "This is a test.",
+    "isSender": true,
+    "timestamp": "2025-01-01T13:47:00Z",
+    "author": "You"
+  },
+  {
+    "id": "4725d4ca-a7fe-489d-b623-832fd4af8897",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-01T13:48:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "7c0ab4f7-65b4-4d99-9ed4-47c891cfa685",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T13:49:00Z",
+    "author": "You"
+  },
+  {
+    "id": "81a04204-b9b9-4f04-983e-b98fe81899e5",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-01T13:50:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "3df6b193-7d7f-46a9-9670-e3e2ab21796d",
+    "text": "JSON data incoming.",
+    "isSender": false,
+    "timestamp": "2025-01-01T13:51:00Z",
+    "author": "You"
+  },
+  {
+    "id": "07e23c1b-c8fa-4165-acf9-900af879b759",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T13:52:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "69aacd62-b35f-4004-938c-fd04d6799319",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-01T13:53:00Z",
+    "author": "You"
+  },
+  {
+    "id": "ad24d41e-0c69-4e84-a93b-cdc102bf98f8",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T13:54:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "d4a70668-27b3-4b01-8b20-1a9e393a71f0",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-01T13:55:00Z",
+    "author": "You"
+  },
+  {
+    "id": "dc32fd9e-5a1f-450f-ace2-785d15d2106a",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-01T13:56:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "88f092ba-3257-46f8-a51d-55fb66515ae3",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T13:57:00Z",
+    "author": "You"
+  },
+  {
+    "id": "50ed5b20-b1c5-4efa-9ae1-3fd8fd69ae16",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T13:58:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "ed963e05-a711-4ab0-865d-5930e2c34946",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-01T13:59:00Z",
+    "author": "You"
+  },
+  {
+    "id": "cc3e5d6e-62fc-4692-99e0-e648e7d2b3f7",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-01T14:00:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "57a7d3e0-0978-4c26-963d-2a11afec1d94",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T14:01:00Z",
+    "author": "You"
+  },
+  {
+    "id": "d7735f1b-c382-4182-ac3e-8b4121d2704c",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-01T14:02:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "a4ec851a-d7fa-4fb1-97e6-079654f79b6b",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-01T14:03:00Z",
+    "author": "You"
+  },
+  {
+    "id": "ff499225-b185-4245-9f95-03fe6ed664b1",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T14:04:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "81a73545-cc61-48f6-9665-a9a3f0df5d2d",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T14:05:00Z",
+    "author": "You"
+  },
+  {
+    "id": "f893150a-48b7-4909-887a-2f0852337f21",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-01T14:06:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "0aaace57-a2fb-404d-9662-0aab36b81855",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-01T14:07:00Z",
+    "author": "You"
+  },
+  {
+    "id": "cccbbb2a-027f-47d0-8e17-a4a08a4eec52",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T14:08:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "1f7fb123-00d0-4340-aef5-fe6d07dc2d90",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-01T14:09:00Z",
+    "author": "You"
+  },
+  {
+    "id": "ca2349d9-d5ee-4c46-997e-2deb3c25eb1e",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T14:10:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "096ab24a-5dbd-4b5a-a456-355cdbaa6d07",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-01T14:11:00Z",
+    "author": "You"
+  },
+  {
+    "id": "afa368ff-5d63-4619-a3f4-2d98797ddcca",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T14:12:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "46ca5377-76e8-47eb-9418-2c9d6d853f34",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-01T14:13:00Z",
+    "author": "You"
+  },
+  {
+    "id": "2ca260a9-3d86-4e3a-acdd-9b427f3d692f",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T14:14:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "4d7def52-c3df-4c8f-8c32-80d447a856a1",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-01T14:15:00Z",
+    "author": "You"
+  },
+  {
+    "id": "884928f2-fb98-4749-870e-883a089860f4",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T14:16:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "7e0bef53-4b6e-45a8-a18e-ad349a4d01b5",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-01T14:17:00Z",
+    "author": "You"
+  },
+  {
+    "id": "314409b2-9c89-4797-a48a-ec62d23debf1",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-01T14:18:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "07ff313c-d0aa-4ade-a687-b50cfb26a7a2",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T14:19:00Z",
+    "author": "You"
+  },
+  {
+    "id": "7a4723e4-0f92-48f8-a6b0-ab4e0ef4d948",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T14:20:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "350fe933-195a-40c1-893b-da06297d4f78",
+    "text": "JSON data incoming.",
+    "isSender": false,
+    "timestamp": "2025-01-01T14:21:00Z",
+    "author": "You"
+  },
+  {
+    "id": "6654660a-d19e-4e05-833c-65abf08ea425",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-01T14:22:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "78e118f2-914f-4857-9c64-0e000ce08be7",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-01T14:23:00Z",
+    "author": "You"
+  },
+  {
+    "id": "71e91eee-879e-42c8-a077-a975a59550ca",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-01T14:24:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "f84659ad-df3c-49aa-81dd-d2a84ada9772",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T14:25:00Z",
+    "author": "You"
+  },
+  {
+    "id": "07795d9b-ce12-4e6a-a8ea-c17589687146",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-01T14:26:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "e14ab75a-14f0-4764-8b63-0fc7e6dc4e62",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-01T14:27:00Z",
+    "author": "You"
+  },
+  {
+    "id": "79f4adc3-7c83-4e6e-aac4-f9bc9449750b",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T14:28:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "12c4eb46-ac22-4ba4-b9c3-23cdaf5de73e",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T14:29:00Z",
+    "author": "You"
+  },
+  {
+    "id": "6ff3eb89-3606-419f-87bf-e97c3cd488f1",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-01T14:30:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "b5328b26-c9c3-4490-b175-24f86fff4997",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-01T14:31:00Z",
+    "author": "You"
+  },
+  {
+    "id": "64cd0706-aa07-4bb6-ac9f-412ae6d9bacc",
+    "text": "JSON data incoming.",
+    "isSender": false,
+    "timestamp": "2025-01-01T14:32:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "663a45a9-43c4-4fda-83bd-e8f28d9ee443",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T14:33:00Z",
+    "author": "You"
+  },
+  {
+    "id": "12e41af3-c632-4ebf-9b06-921eead4f3ab",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T14:34:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "e9c22c00-d4e6-42d2-a7ee-c03dc131f807",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T14:35:00Z",
+    "author": "You"
+  },
+  {
+    "id": "ed5e1f4d-a5d6-41af-b2b4-480423237d54",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T14:36:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "74ee693f-a9f4-42a5-a568-8ab846c7e1ae",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-01T14:37:00Z",
+    "author": "You"
+  },
+  {
+    "id": "ff30121e-0197-4761-bc4d-b34aafecbb05",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T14:38:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "1030e6a8-7400-462e-a270-32621c792166",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T14:39:00Z",
+    "author": "You"
+  },
+  {
+    "id": "9ed1fedb-76cf-4d89-937a-f87cb1f4e63b",
+    "text": "Hello!",
+    "isSender": true,
+    "timestamp": "2025-01-01T14:40:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "8a133eb8-44c0-4eef-92f2-300881f61625",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T14:41:00Z",
+    "author": "You"
+  },
+  {
+    "id": "59df3e41-9267-46f3-a5aa-bbaae2a2e034",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T14:42:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "059e2bc1-a8f6-40a0-9829-57a4d8cb4a01",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T14:43:00Z",
+    "author": "You"
+  },
+  {
+    "id": "c351cdf3-be6b-4c08-83e3-35cedf8eba3a",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T14:44:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "b6431683-270a-42b5-a719-296441223478",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T14:45:00Z",
+    "author": "You"
+  },
+  {
+    "id": "a834de6f-542b-4e1b-bf23-c5b15bb320d6",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T14:46:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "78db451c-1056-4862-bbda-abd0cd19daa5",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T14:47:00Z",
+    "author": "You"
+  },
+  {
+    "id": "fcddcbd3-fae1-4f71-9b5b-4bc5c7b9aa36",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T14:48:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "130fecf9-d7df-42c9-acfe-bbe2c7489c29",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-01T14:49:00Z",
+    "author": "You"
+  },
+  {
+    "id": "83b363ba-733e-41e0-a7b6-11c2917be230",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T14:50:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "6b28e974-97fd-44a6-8aff-a924d4983668",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-01T14:51:00Z",
+    "author": "You"
+  },
+  {
+    "id": "3b925fb3-96ae-43ab-ab8a-c873a93af384",
+    "text": "Hello!",
+    "isSender": true,
+    "timestamp": "2025-01-01T14:52:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "a4f5d1b1-6a2c-4811-9092-417b3ca43054",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-01T14:53:00Z",
+    "author": "You"
+  },
+  {
+    "id": "983fd90b-96f3-4619-a662-00fc9fc72716",
+    "text": "This is a test.",
+    "isSender": true,
+    "timestamp": "2025-01-01T14:54:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "cc12fda9-7399-479b-b836-fcd440678faa",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-01T14:55:00Z",
+    "author": "You"
+  },
+  {
+    "id": "2c3e2dca-f864-4001-8acd-5f30232135a8",
+    "text": "This is a test.",
+    "isSender": true,
+    "timestamp": "2025-01-01T14:56:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "023c07dd-f172-45ca-93c0-eca10dce9e75",
+    "text": "Hello!",
+    "isSender": true,
+    "timestamp": "2025-01-01T14:57:00Z",
+    "author": "You"
+  },
+  {
+    "id": "97e7ebac-4ae9-42f1-bbfa-d6084fa04a6c",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-01T14:58:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "fe4611d1-f273-4178-9271-89c3acc06234",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T14:59:00Z",
+    "author": "You"
+  },
+  {
+    "id": "f9e58059-7281-4370-99bb-0b1354b10787",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T15:00:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "7c9a8f5c-fb5d-47b9-902b-aac827e019cb",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T15:01:00Z",
+    "author": "You"
+  },
+  {
+    "id": "f986c37e-4c15-4a00-96e8-126b54593fb5",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-01T15:02:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "ebbeada7-7901-49d1-8a38-854231ceba0f",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-01T15:03:00Z",
+    "author": "You"
+  },
+  {
+    "id": "1ddcf6d2-fcdb-46a1-b030-1eb46e837a56",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T15:04:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "f9fd7c34-4a68-45ec-9792-e483c872e233",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T15:05:00Z",
+    "author": "You"
+  },
+  {
+    "id": "6797dd98-ac31-4456-98cf-ea29a39875a3",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-01T15:06:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "726d92a7-ce51-4e9f-a802-455f0c2adb17",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T15:07:00Z",
+    "author": "You"
+  },
+  {
+    "id": "2cdd7853-8e19-41b5-9a08-54e169c9b43b",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T15:08:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "874efe77-8c7c-413d-a35d-5c77e543a84d",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-01T15:09:00Z",
+    "author": "You"
+  },
+  {
+    "id": "2ad85522-6e0b-45a8-b095-c451ac6468ff",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T15:10:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "93b89b3d-2ab7-43ca-a1a2-c7c3c4ac2d3f",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T15:11:00Z",
+    "author": "You"
+  },
+  {
+    "id": "f4873041-ea3e-4eca-9018-2cfe05af6830",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T15:12:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "3040b436-4741-4aa1-999b-2b050d0d9dcc",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-01T15:13:00Z",
+    "author": "You"
+  },
+  {
+    "id": "2910da74-680e-47ea-9bbe-da0bfdda1a16",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-01T15:14:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "fc9515b1-c49e-42f4-ab08-6b63f09bc9ad",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T15:15:00Z",
+    "author": "You"
+  },
+  {
+    "id": "36cd0c3d-65e7-4b39-ad20-b51b05426353",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-01T15:16:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "15002ec4-d887-4704-925a-bef08707ae4e",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-01T15:17:00Z",
+    "author": "You"
+  },
+  {
+    "id": "a627afd8-285a-4c50-96b5-c3ba7f75522f",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-01T15:18:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "298f9f80-f18a-41aa-8af6-6baaf922aa99",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T15:19:00Z",
+    "author": "You"
+  },
+  {
+    "id": "bdbefb75-0feb-46f9-b7cd-9319b82f26ee",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T15:20:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "98e852a6-6938-4ec0-be5b-6db7afa2b2fc",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T15:21:00Z",
+    "author": "You"
+  },
+  {
+    "id": "0b78dfea-bf35-4658-9ba0-8cd85b8b5fd5",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-01T15:22:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "a9e45f9c-9cb7-4a62-94d9-1877ebc744d1",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-01T15:23:00Z",
+    "author": "You"
+  },
+  {
+    "id": "8bfe362a-4b04-4fe8-a881-598e7255db7b",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T15:24:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "5e9bb8a4-c7f2-45d5-92ef-258a66cd7edd",
+    "text": "This is a test.",
+    "isSender": true,
+    "timestamp": "2025-01-01T15:25:00Z",
+    "author": "You"
+  },
+  {
+    "id": "3c3fb3c7-5928-4224-a785-9aa023242f9f",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T15:26:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "4edf781d-d9a9-49af-aeab-1da76935c99f",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T15:27:00Z",
+    "author": "You"
+  },
+  {
+    "id": "9d0cb66f-0c21-4375-98ca-e9d08ce8366f",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-01T15:28:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "58718269-6635-4c7d-874e-20962ad1bf06",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-01T15:29:00Z",
+    "author": "You"
+  },
+  {
+    "id": "086129b2-b7e6-4b93-b382-b1f467af40c0",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-01T15:30:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "e0e0fe10-f1bb-4d81-b152-eb740bc7505e",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-01T15:31:00Z",
+    "author": "You"
+  },
+  {
+    "id": "5b8a55fe-e259-42af-a6a3-842cd9ff4d7f",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-01T15:32:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "b50002d0-8cbe-47b6-b6a4-415539721868",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T15:33:00Z",
+    "author": "You"
+  },
+  {
+    "id": "77a1e90b-8610-4df8-a440-6892dc80cdbb",
+    "text": "Hello!",
+    "isSender": true,
+    "timestamp": "2025-01-01T15:34:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "00f55f92-9e17-48ba-8f14-67e7801cab4c",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T15:35:00Z",
+    "author": "You"
+  },
+  {
+    "id": "d50b6b6d-5c70-4c5d-ae10-0c2af98d9299",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-01T15:36:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "d23b0959-c5df-4c7d-90a2-641c94148b54",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T15:37:00Z",
+    "author": "You"
+  },
+  {
+    "id": "71221868-3911-43bb-ae0d-630129d84e1d",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-01T15:38:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "78d9ec46-5b7a-4a5d-bf55-11be8c1ed367",
+    "text": "This is a test.",
+    "isSender": true,
+    "timestamp": "2025-01-01T15:39:00Z",
+    "author": "You"
+  },
+  {
+    "id": "218b3eea-8f19-41c0-b621-fb595ea2b11e",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T15:40:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "32370b8d-c08c-4b92-8ca1-9e5486b916ab",
+    "text": "JSON data incoming.",
+    "isSender": false,
+    "timestamp": "2025-01-01T15:41:00Z",
+    "author": "You"
+  },
+  {
+    "id": "dfa1ba00-05cd-4031-ada5-5496a74b9bbc",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-01T15:42:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "61308c68-dcfc-4c40-bb0d-73cc1424f83e",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-01T15:43:00Z",
+    "author": "You"
+  },
+  {
+    "id": "9bf54359-a3e2-44d5-b179-268f36f7394f",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-01T15:44:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "63ca2f3d-5b22-4f2e-a4eb-e4e4af8ea939",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T15:45:00Z",
+    "author": "You"
+  },
+  {
+    "id": "38d6ee7a-9175-4ca9-a538-009db32401f5",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-01T15:46:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "19250c58-e197-46e0-95b7-ca771209e346",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-01T15:47:00Z",
+    "author": "You"
+  },
+  {
+    "id": "2453c188-0e94-4fc2-ba37-60e19a90aad5",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-01T15:48:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "8076ffd8-3068-422b-9425-f210bed542f8",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-01T15:49:00Z",
+    "author": "You"
+  },
+  {
+    "id": "9cad6cd8-a9b9-410b-94c0-2bdb06acc4d9",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T15:50:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "e394155b-d3d7-49a6-8d16-ca5f434d1b01",
+    "text": "JSON data incoming.",
+    "isSender": false,
+    "timestamp": "2025-01-01T15:51:00Z",
+    "author": "You"
+  },
+  {
+    "id": "f548e47f-3300-43a2-a4d5-421a0852ce05",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-01T15:52:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "4ba7f11a-2f6a-40ab-ae7c-7da88770046a",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-01T15:53:00Z",
+    "author": "You"
+  },
+  {
+    "id": "294c18ab-52b1-40ba-a998-82490ada82d3",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-01T15:54:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "cfadf50d-f2bd-4627-bb57-e886398c2ddc",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T15:55:00Z",
+    "author": "You"
+  },
+  {
+    "id": "c38fe3e1-fd71-4cef-9f56-70a454e54f22",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T15:56:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "fc45cbc0-6c78-4c97-b4ec-a1e454a83558",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-01T15:57:00Z",
+    "author": "You"
+  },
+  {
+    "id": "0d8dbeaa-f2f0-4384-b6df-2752811f0c74",
+    "text": "JSON data incoming.",
+    "isSender": false,
+    "timestamp": "2025-01-01T15:58:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "5892be36-1e05-4f7e-bc99-40b05b6a9f38",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-01T15:59:00Z",
+    "author": "You"
+  },
+  {
+    "id": "7d90357b-386a-4a11-a2eb-36b132e1d5da",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-01T16:00:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "aa98611f-378d-4f10-8358-2d4f992988ac",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-01T16:01:00Z",
+    "author": "You"
+  },
+  {
+    "id": "98c8744b-0cab-4cfa-a60d-9ec0dd9d1d83",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T16:02:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "e04115b7-1f7e-4e38-aa73-82b873766951",
+    "text": "JSON data incoming.",
+    "isSender": false,
+    "timestamp": "2025-01-01T16:03:00Z",
+    "author": "You"
+  },
+  {
+    "id": "8a5e9bc1-316a-46cb-8030-06fc7a951d7a",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T16:04:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "f6e217c7-973d-4e65-b4c2-dfd3d9c8b68e",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T16:05:00Z",
+    "author": "You"
+  },
+  {
+    "id": "758c26aa-fb78-4aae-9fa9-4eac7d83afd3",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T16:06:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "adcb25d7-d72f-4663-80cc-4a4a71928b28",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T16:07:00Z",
+    "author": "You"
+  },
+  {
+    "id": "be2deea8-4004-4718-afb4-fc37ea3afe85",
+    "text": "Hello!",
+    "isSender": true,
+    "timestamp": "2025-01-01T16:08:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "cc43c42a-2684-4d2d-90e2-094c4bd361df",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-01T16:09:00Z",
+    "author": "You"
+  },
+  {
+    "id": "1f0cf8fd-176f-4336-8d3f-b400556f0c1b",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T16:10:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "32999410-bd3b-47ab-9f3f-c53de42513a3",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-01T16:11:00Z",
+    "author": "You"
+  },
+  {
+    "id": "6c36d684-5db6-4fb6-8ade-aa47152cebbe",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-01T16:12:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "a1b1eb60-77b4-4ae2-b17a-4ddf96cce9b5",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T16:13:00Z",
+    "author": "You"
+  },
+  {
+    "id": "4d74c32c-03ba-4b37-bfbf-56ca9c9c46a7",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-01T16:14:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "275afe48-ead3-4848-996a-bd11738f4a5b",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-01T16:15:00Z",
+    "author": "You"
+  },
+  {
+    "id": "b893d3ab-51d8-4d62-9b63-81efa4754787",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-01T16:16:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "ce1e163f-e2b8-4a26-9692-c2f0c0366523",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T16:17:00Z",
+    "author": "You"
+  },
+  {
+    "id": "26cd15d1-3ddb-49bc-8c09-36ec75b0d2e0",
+    "text": "Hello!",
+    "isSender": true,
+    "timestamp": "2025-01-01T16:18:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "9446690e-3544-4cd8-96f6-92ebf6eeba74",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T16:19:00Z",
+    "author": "You"
+  },
+  {
+    "id": "e51c44aa-66f9-4bcc-bb86-acb816a248d7",
+    "text": "Hello!",
+    "isSender": true,
+    "timestamp": "2025-01-01T16:20:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "b5000908-9e2e-477b-b1e2-b79824ed486f",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T16:21:00Z",
+    "author": "You"
+  },
+  {
+    "id": "d244bc18-2b54-4ba6-8b14-c6f04d5556a8",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-01T16:22:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "ececf1b8-dce6-4355-818f-09d864c8572c",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T16:23:00Z",
+    "author": "You"
+  },
+  {
+    "id": "2a8b769b-16a7-4e0d-949d-10f245755760",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T16:24:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "1c49556d-9e10-4c9d-9fce-f3b3a7a289c7",
+    "text": "This is a test.",
+    "isSender": true,
+    "timestamp": "2025-01-01T16:25:00Z",
+    "author": "You"
+  },
+  {
+    "id": "67824d2c-6fdb-412a-98fc-99b6f637cef1",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T16:26:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "ca4bcf44-d16a-4ace-8338-dc4e1e37c56a",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T16:27:00Z",
+    "author": "You"
+  },
+  {
+    "id": "14ccf45a-04c8-4e5f-98fd-4a5c5f129973",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T16:28:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "3b126a63-351b-4ef5-abb1-fff8e110d9a2",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-01T16:29:00Z",
+    "author": "You"
+  },
+  {
+    "id": "839feaea-b9ab-4962-9ebb-35a22818d7a2",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T16:30:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "4bb5d074-0015-43db-92a0-ab27584b9f0c",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-01T16:31:00Z",
+    "author": "You"
+  },
+  {
+    "id": "df1fdd99-9b61-4acd-9c61-e0bd49737f7c",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-01T16:32:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "c6771614-324c-4434-8ed4-17fbb52c2e63",
+    "text": "JSON data incoming.",
+    "isSender": false,
+    "timestamp": "2025-01-01T16:33:00Z",
+    "author": "You"
+  },
+  {
+    "id": "311cc6fe-ed7b-4927-9212-11694c38c3dd",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-01T16:34:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "ff8dff07-3296-415b-9075-db80ff3a6fae",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T16:35:00Z",
+    "author": "You"
+  },
+  {
+    "id": "abd2ca27-d959-4042-adde-d4c6e6418c25",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T16:36:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "33458a9d-a28b-46d4-b9de-e47b52fb8de9",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T16:37:00Z",
+    "author": "You"
+  },
+  {
+    "id": "8e425c13-7ac0-48f4-a5a0-92969d88e1c4",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T16:38:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "eab2bf9c-cd16-4828-b756-d4f44c2473fd",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T16:39:00Z",
+    "author": "You"
+  },
+  {
+    "id": "3f15c771-ccc5-4211-95fd-0a9832cead28",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-01T16:40:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "d20bb0f3-c580-4e7d-960b-a2621d5fb114",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-01T16:41:00Z",
+    "author": "You"
+  },
+  {
+    "id": "94cd1b07-798b-4714-b17a-c4c63ae202df",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T16:42:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "4a34fd9d-eabb-49dc-bf69-3fa8d7d10578",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T16:43:00Z",
+    "author": "You"
+  },
+  {
+    "id": "bf771e6a-2f33-450e-b527-a3992d414601",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-01T16:44:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "1a236d21-1b66-432a-b565-10cee50c8560",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-01T16:45:00Z",
+    "author": "You"
+  },
+  {
+    "id": "daadb412-3141-4ab9-a09d-7e51d8ce7cd5",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T16:46:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "f467b2f5-9b0b-4b50-965f-2ed366982624",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T16:47:00Z",
+    "author": "You"
+  },
+  {
+    "id": "16882c83-ae44-4641-9b3a-67f7df1df044",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T16:48:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "3c258ca7-c4bf-4bf0-90b9-1b0c09f292a1",
+    "text": "This is a test.",
+    "isSender": true,
+    "timestamp": "2025-01-01T16:49:00Z",
+    "author": "You"
+  },
+  {
+    "id": "bcc6f3d2-a8c3-424c-936c-0ee306e481e3",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-01T16:50:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "9b1add5b-84e0-4991-915e-0865eb5d3f3a",
+    "text": "This is a test.",
+    "isSender": true,
+    "timestamp": "2025-01-01T16:51:00Z",
+    "author": "You"
+  },
+  {
+    "id": "64fb999b-ac6e-4b6c-8da3-4310af5ac6c0",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T16:52:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "5f7e2791-6873-4dc7-8dfa-919c067d4137",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-01T16:53:00Z",
+    "author": "You"
+  },
+  {
+    "id": "1fec5a67-f88a-4595-a71e-cccc64a480af",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T16:54:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "8e143793-9838-4776-a6c1-01b29f6c72f7",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T16:55:00Z",
+    "author": "You"
+  },
+  {
+    "id": "4e3556d2-8c33-4415-99f8-c0d168367785",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T16:56:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "25b7b14a-a58b-4c30-8677-58274c8a7fd9",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T16:57:00Z",
+    "author": "You"
+  },
+  {
+    "id": "f8094caf-a78c-47d3-9910-cb9473d5c5c9",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-01T16:58:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "72315732-92e5-46d0-a2ea-a87825659d57",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-01T16:59:00Z",
+    "author": "You"
+  },
+  {
+    "id": "ba1a5d76-ce7f-490e-bd26-c1f2bc97cdcd",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T17:00:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "a68a6570-bffd-4cae-932a-d29a37deae62",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-01T17:01:00Z",
+    "author": "You"
+  },
+  {
+    "id": "09f6ef7b-5703-4f5c-9bb7-43b15e247f5d",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-01T17:02:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "0615d662-6221-4dbd-a1d2-c0afdb68cbb4",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-01T17:03:00Z",
+    "author": "You"
+  },
+  {
+    "id": "1648b5fe-7fdd-4e4c-8f47-2c88643480f2",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-01T17:04:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "1c2d192a-a950-4fbc-86bb-a2dac9356840",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-01T17:05:00Z",
+    "author": "You"
+  },
+  {
+    "id": "0ec873fc-de25-435f-abb6-b18abe06989e",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T17:06:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "08b978f9-12bd-464a-bd41-1fc133fe4360",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-01T17:07:00Z",
+    "author": "You"
+  },
+  {
+    "id": "d6122f6a-d7ba-4ce7-8147-aeb0c2651b5c",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T17:08:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "65efbb6f-f256-44ba-91db-f782a78b660f",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T17:09:00Z",
+    "author": "You"
+  },
+  {
+    "id": "645dfa90-84a2-438a-8149-400d6d3f6a11",
+    "text": "This is a test.",
+    "isSender": true,
+    "timestamp": "2025-01-01T17:10:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "da30b54b-025c-439f-8b7d-f5eb9fdd8968",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-01T17:11:00Z",
+    "author": "You"
+  },
+  {
+    "id": "e2caa93d-4f9d-47d3-88bb-5db15e1542e6",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-01T17:12:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "9aa83a2c-fc4c-4d22-9231-5fe8ef4af283",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T17:13:00Z",
+    "author": "You"
+  },
+  {
+    "id": "ec490107-a908-4ebf-a139-374eb24e8c9e",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-01T17:14:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "df407b27-0363-464c-92fc-d64593fe931b",
+    "text": "This is a test.",
+    "isSender": true,
+    "timestamp": "2025-01-01T17:15:00Z",
+    "author": "You"
+  },
+  {
+    "id": "f53c53b9-cc63-4744-8c0f-b4132d0edf7a",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T17:16:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "c0e493c1-1204-49a8-aeb6-53cdc7fb7d3a",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-01T17:17:00Z",
+    "author": "You"
+  },
+  {
+    "id": "768a1e72-88b0-4cd1-a187-823f1ed513ea",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T17:18:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "c5911618-c89e-4c00-8a22-df1dbad2d282",
+    "text": "This is a test.",
+    "isSender": true,
+    "timestamp": "2025-01-01T17:19:00Z",
+    "author": "You"
+  },
+  {
+    "id": "19cc6a3c-df1a-4a27-8dd4-bc69e4ddb140",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T17:20:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "86635fba-cec8-4214-9695-1618ba22e27a",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-01T17:21:00Z",
+    "author": "You"
+  },
+  {
+    "id": "53f02c87-871f-4a1b-993c-002b999815da",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T17:22:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "751486bb-1bea-4052-8c7d-9e13a882c372",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-01T17:23:00Z",
+    "author": "You"
+  },
+  {
+    "id": "7b12a09a-eb66-49cd-8ef1-7c65fb8a2bbd",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T17:24:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "60abb081-66ae-4768-8a8b-40395b1b6512",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T17:25:00Z",
+    "author": "You"
+  },
+  {
+    "id": "bb0bbdb8-cca0-4e83-95a0-3ccc94869aab",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-01T17:26:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "c82eda88-e899-4a54-9bb3-672b0dcc38a5",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T17:27:00Z",
+    "author": "You"
+  },
+  {
+    "id": "2d5c8c5a-cd34-4e37-97a8-1be4249c11ce",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T17:28:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "62c8059b-b9c1-4dcf-a65a-e6f1d41e6be1",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-01T17:29:00Z",
+    "author": "You"
+  },
+  {
+    "id": "6b763d65-85c7-4c67-80a9-2fbc2c4b9c3c",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-01T17:30:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "d3b3b96b-0d9a-4ac5-9a06-9376e89ad362",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T17:31:00Z",
+    "author": "You"
+  },
+  {
+    "id": "dbeeb3c3-1766-4dad-83c7-d3cbf943aa2a",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T17:32:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "a7cffa29-5e54-4d66-91e4-37114edc93fe",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T17:33:00Z",
+    "author": "You"
+  },
+  {
+    "id": "865accb3-2a00-45ad-ab1a-6f1922a2f83e",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T17:34:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "077eb1ff-76ca-4396-a240-929f75587050",
+    "text": "This is a test.",
+    "isSender": true,
+    "timestamp": "2025-01-01T17:35:00Z",
+    "author": "You"
+  },
+  {
+    "id": "45fbdc86-8c78-479e-b6d5-5d4bb6c4fa56",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T17:36:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "61496944-a1a5-4781-9f2a-c34d0289f302",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T17:37:00Z",
+    "author": "You"
+  },
+  {
+    "id": "46be6392-7d04-4034-98f4-2f0d847b75a4",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-01T17:38:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "62289162-58d9-4c35-8184-2456a72f8abc",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T17:39:00Z",
+    "author": "You"
+  },
+  {
+    "id": "89add3f0-eed0-4563-a329-e8d56546183f",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-01T17:40:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "e230a207-2b33-4ea5-b585-de91095f143f",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-01T17:41:00Z",
+    "author": "You"
+  },
+  {
+    "id": "2e1e34fa-ac0c-49bb-b04d-27bae9dd91d1",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-01T17:42:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "e141db46-b887-4f05-9aa5-bd92ff70cf1e",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-01T17:43:00Z",
+    "author": "You"
+  },
+  {
+    "id": "238c8adf-37fe-4455-b126-604a2c25fe9e",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-01T17:44:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "78d66af2-3fe6-4ce7-ac6f-b163e3c68b4b",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T17:45:00Z",
+    "author": "You"
+  },
+  {
+    "id": "ae153f15-775d-4cdd-a074-ab6956291ce5",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-01T17:46:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "78e939e2-e409-4590-8e64-3c07f71f01a9",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T17:47:00Z",
+    "author": "You"
+  },
+  {
+    "id": "f7608667-1401-4f53-a607-25770d6e6f64",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T17:48:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "7177ee50-eb3c-495f-8f7d-b6b189de4e2a",
+    "text": "JSON data incoming.",
+    "isSender": false,
+    "timestamp": "2025-01-01T17:49:00Z",
+    "author": "You"
+  },
+  {
+    "id": "953a9966-88b4-4cb6-b65f-10aacf79f1e7",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-01T17:50:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "94dfb339-5689-470d-8ebb-c0e0dbd5f4db",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T17:51:00Z",
+    "author": "You"
+  },
+  {
+    "id": "db4814e3-6844-4c04-a2e5-01f2c7f9b1bb",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T17:52:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "d5904d82-6377-4504-a08f-4c13946e7b17",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T17:53:00Z",
+    "author": "You"
+  },
+  {
+    "id": "02016f4f-33c6-4be7-bb5b-8b69e6d890ef",
+    "text": "Hello!",
+    "isSender": true,
+    "timestamp": "2025-01-01T17:54:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "e7563159-bfb0-4259-aabd-77f94ecb883c",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T17:55:00Z",
+    "author": "You"
+  },
+  {
+    "id": "485ba71c-8aeb-4e4c-bad5-e90a2c630572",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T17:56:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "5bb3ba42-c09a-4565-b432-85a58a04aad9",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-01T17:57:00Z",
+    "author": "You"
+  },
+  {
+    "id": "c44daa2e-c225-4f17-8689-8a8739fe75c9",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T17:58:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "bc1eb808-1afc-4ec0-8065-e3b8682648f6",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T17:59:00Z",
+    "author": "You"
+  },
+  {
+    "id": "5d25c069-01f6-4f42-9b8c-d0adda0e0d33",
+    "text": "JSON data incoming.",
+    "isSender": false,
+    "timestamp": "2025-01-01T18:00:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "21f518cb-2477-4ee4-9163-a71000cf0f58",
+    "text": "This is a test.",
+    "isSender": true,
+    "timestamp": "2025-01-01T18:01:00Z",
+    "author": "You"
+  },
+  {
+    "id": "db0c7ee4-86ba-4eee-bb46-14dc32ea042b",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-01T18:02:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "42d3bba1-7f54-4be3-bda0-2f60502550df",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T18:03:00Z",
+    "author": "You"
+  },
+  {
+    "id": "141f75dc-4e3b-43a8-a857-1717d17d2976",
+    "text": "This is a test.",
+    "isSender": true,
+    "timestamp": "2025-01-01T18:04:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "107ec40a-18a8-432f-ad30-7275e0b3d43f",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-01T18:05:00Z",
+    "author": "You"
+  },
+  {
+    "id": "9efb6b32-c679-498f-a239-d708fbf813a4",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T18:06:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "b1e894a1-fcc6-4f89-b08a-9829ba007950",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T18:07:00Z",
+    "author": "You"
+  },
+  {
+    "id": "af85b964-f01e-46de-b8f4-62464744d7df",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-01T18:08:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "6ab7ae69-e994-455d-b3e2-9c7e3a801658",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T18:09:00Z",
+    "author": "You"
+  },
+  {
+    "id": "8e183c09-157b-438d-babd-5f37567ebab6",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-01T18:10:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "833147dc-7776-4554-99da-69a11b5eea69",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T18:11:00Z",
+    "author": "You"
+  },
+  {
+    "id": "5dd0c228-0ff8-4c9b-ba3c-8c0b45b85ce9",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-01T18:12:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "d9012980-2dda-483d-b016-c3cb28064398",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-01T18:13:00Z",
+    "author": "You"
+  },
+  {
+    "id": "491c449f-6757-44c1-a30a-5e17ad5ce929",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T18:14:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "f79bcd0a-5b92-48c5-a4c1-dab1f4c46494",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-01T18:15:00Z",
+    "author": "You"
+  },
+  {
+    "id": "af62d1f1-2ffd-4a72-9209-df0c01af5ede",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T18:16:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "bf35d16a-773c-4471-8bc9-a4dfae615ada",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T18:17:00Z",
+    "author": "You"
+  },
+  {
+    "id": "ad229ad1-9da8-4515-919a-b928d7688b90",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-01T18:18:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "3d2cdd97-417c-4056-8213-541a61b03b61",
+    "text": "Hello!",
+    "isSender": true,
+    "timestamp": "2025-01-01T18:19:00Z",
+    "author": "You"
+  },
+  {
+    "id": "8dc7b3cb-1a7d-4d5f-b7d2-815fa7042457",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T18:20:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "73145762-ba3a-4977-b2e6-a4aa4b6ebde4",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T18:21:00Z",
+    "author": "You"
+  },
+  {
+    "id": "4fdcea07-0da4-4f25-8577-e3ac963c001e",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T18:22:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "6a27d647-2703-414d-8406-3d4257d18988",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-01T18:23:00Z",
+    "author": "You"
+  },
+  {
+    "id": "476adc2b-bd57-47ec-9f7c-cbc8925eab31",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T18:24:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "633e4def-a223-4561-8b52-638c77781665",
+    "text": "JSON data incoming.",
+    "isSender": false,
+    "timestamp": "2025-01-01T18:25:00Z",
+    "author": "You"
+  },
+  {
+    "id": "9e534c30-6d3e-4aa9-914d-334f68a0a40b",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T18:26:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "faf91964-3eea-4782-8f62-0ee9dfc31b38",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T18:27:00Z",
+    "author": "You"
+  },
+  {
+    "id": "81c5048d-4b5a-4e46-81be-7332e2bc9d49",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-01T18:28:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "58149609-2fbd-4948-a001-421044712d2a",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T18:29:00Z",
+    "author": "You"
+  },
+  {
+    "id": "a8661791-3d7e-4b34-a1e6-66016e480aa4",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-01T18:30:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "61c4b933-dd5b-4e4d-887e-ee752a935a40",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T18:31:00Z",
+    "author": "You"
+  },
+  {
+    "id": "c2e4e506-4524-44ff-91d0-10c2a6bccebe",
+    "text": "JSON data incoming.",
+    "isSender": false,
+    "timestamp": "2025-01-01T18:32:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "8ddd8b22-349d-4278-8c0c-a516035c349d",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T18:33:00Z",
+    "author": "You"
+  },
+  {
+    "id": "6c034650-2100-4b06-80be-42b61c5dbc19",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T18:34:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "fe0eca9f-f709-425c-9144-020a3ab6b701",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T18:35:00Z",
+    "author": "You"
+  },
+  {
+    "id": "929653d4-372a-49ee-8634-941e929d1c79",
+    "text": "JSON data incoming.",
+    "isSender": false,
+    "timestamp": "2025-01-01T18:36:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "aa3c3444-409d-4f7f-a7ff-a62d7b695004",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T18:37:00Z",
+    "author": "You"
+  },
+  {
+    "id": "e4c9ffa4-7b7c-48b4-9dd5-df9ee51cf255",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-01T18:38:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "0771eea0-41c7-4267-9e21-a20bb4f09e1e",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-01T18:39:00Z",
+    "author": "You"
+  },
+  {
+    "id": "55fa07d9-ef22-43ec-ba8d-0096f442d597",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T18:40:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "56f60f1a-7a91-4092-9265-cf3e90b7583a",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T18:41:00Z",
+    "author": "You"
+  },
+  {
+    "id": "c2637bbc-4579-4b57-a59b-99aaaca12004",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-01T18:42:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "1af9774c-20cc-46e6-a5ff-fe6f44ff2500",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T18:43:00Z",
+    "author": "You"
+  },
+  {
+    "id": "b31af742-77f6-483e-8221-e1093b844391",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T18:44:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "b545770f-4ed1-40aa-b4fe-600c3e1f055e",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T18:45:00Z",
+    "author": "You"
+  },
+  {
+    "id": "f568dffd-beef-495e-a6e1-cd23689d21ea",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-01T18:46:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "88129318-3f20-4e58-bc91-4a59102a2c6c",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T18:47:00Z",
+    "author": "You"
+  },
+  {
+    "id": "b90a3bb8-7450-4060-9898-5ea6a2d86519",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-01T18:48:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "160a20d4-5bf6-47a8-888b-bc6637909c9f",
+    "text": "Hello!",
+    "isSender": true,
+    "timestamp": "2025-01-01T18:49:00Z",
+    "author": "You"
+  },
+  {
+    "id": "ad4d90d3-a4c6-4595-9293-abd39d04f065",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-01T18:50:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "f323ef81-1429-49e2-a66e-a11e53849e19",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T18:51:00Z",
+    "author": "You"
+  },
+  {
+    "id": "2c46aa80-8a9a-461e-a988-fdf10034c577",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-01T18:52:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "ea1ea6d9-0521-4f8f-9b1e-413632cf3175",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T18:53:00Z",
+    "author": "You"
+  },
+  {
+    "id": "e3b96e9e-d682-47ab-807a-895878b1a8ad",
+    "text": "JSON data incoming.",
+    "isSender": false,
+    "timestamp": "2025-01-01T18:54:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "858f790e-89b8-4c9e-b6b6-567c0aac1eed",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T18:55:00Z",
+    "author": "You"
+  },
+  {
+    "id": "ed29739d-1eba-45ad-8753-d271864b71c7",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T18:56:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "b8339fce-f1b8-4d74-8e48-13f2bd2bc295",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-01T18:57:00Z",
+    "author": "You"
+  },
+  {
+    "id": "a383da1c-effd-4307-afdf-52f93ee03008",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-01T18:58:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "bd9eee8d-22fc-4007-9e7b-03cb7d094110",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T18:59:00Z",
+    "author": "You"
+  },
+  {
+    "id": "a252b6bb-104e-4afa-a129-b1888f57e5c8",
+    "text": "Hello!",
+    "isSender": true,
+    "timestamp": "2025-01-01T19:00:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "b6a8e2fa-2d7c-4be3-a218-c350cbc804f3",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-01T19:01:00Z",
+    "author": "You"
+  },
+  {
+    "id": "16a14cda-751a-4645-9566-88c9dd6b6f0a",
+    "text": "This is a test.",
+    "isSender": true,
+    "timestamp": "2025-01-01T19:02:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "b8b99bbb-1aa1-4aff-9b5c-684a4e3d9677",
+    "text": "JSON data incoming.",
+    "isSender": false,
+    "timestamp": "2025-01-01T19:03:00Z",
+    "author": "You"
+  },
+  {
+    "id": "77ea67e0-170d-4c3f-97ad-31fb7874dd51",
+    "text": "Hello!",
+    "isSender": true,
+    "timestamp": "2025-01-01T19:04:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "6938e0a8-efa6-47c0-a904-4855b1461f48",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-01T19:05:00Z",
+    "author": "You"
+  },
+  {
+    "id": "71563671-ea0b-464b-976a-f72176c3c66c",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-01T19:06:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "78a41efd-3bf9-4bb6-ac5c-f82a274ffd0c",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T19:07:00Z",
+    "author": "You"
+  },
+  {
+    "id": "28edb584-923d-46ec-b40f-b7ae8bb23a1e",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T19:08:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "e9c81cc8-f65f-490d-a59e-35d95032e2cf",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T19:09:00Z",
+    "author": "You"
+  },
+  {
+    "id": "51e9a5f3-38fa-4b74-9be8-b3297a1d1b88",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-01T19:10:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "7882d4f1-2969-4c77-907c-63c42858f9e5",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-01T19:11:00Z",
+    "author": "You"
+  },
+  {
+    "id": "ad4a7886-20b3-4083-b11e-e29fadd72f4b",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-01T19:12:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "fb17f777-9da3-416e-8892-3f096bd58c44",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-01T19:13:00Z",
+    "author": "You"
+  },
+  {
+    "id": "ff9c78be-5445-462b-a6f4-912de0eaef40",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-01T19:14:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "3f81d2a8-ab27-4dda-8967-a8db8c0a0cd8",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-01T19:15:00Z",
+    "author": "You"
+  },
+  {
+    "id": "77b18390-9366-441d-a029-35cd2f2cf03d",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T19:16:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "b9609411-c726-49ef-a9b6-50e09cb10dcf",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-01T19:17:00Z",
+    "author": "You"
+  },
+  {
+    "id": "f5cc1408-76d5-4466-b98c-4e0581dbd5b9",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-01T19:18:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "aee40d11-f67c-470f-8eff-d04e9737485f",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T19:19:00Z",
+    "author": "You"
+  },
+  {
+    "id": "05d71fb4-eb2d-437f-8274-62e957de6e45",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-01T19:20:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "8574ba3a-cf34-4d3e-bfca-fbaafb123914",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-01T19:21:00Z",
+    "author": "You"
+  },
+  {
+    "id": "47034799-6987-4e8e-ac77-8a959e6295df",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-01T19:22:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "461a7ad7-8e94-4300-9254-c085b79bbfd6",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-01T19:23:00Z",
+    "author": "You"
+  },
+  {
+    "id": "5f84c055-1978-4fd2-9796-30d297f048a2",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T19:24:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "c8d775b8-03be-4822-923f-76193ded2ac8",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-01T19:25:00Z",
+    "author": "You"
+  },
+  {
+    "id": "a9550c1a-0b03-4916-aa93-78065ef84e59",
+    "text": "JSON data incoming.",
+    "isSender": false,
+    "timestamp": "2025-01-01T19:26:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "d735ab04-3dce-4701-a236-1cad82e0bffe",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-01T19:27:00Z",
+    "author": "You"
+  },
+  {
+    "id": "01bb5fc9-6d3c-4692-9965-de4ae983650a",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-01T19:28:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "0b2b646f-c834-4b99-a13c-4d7261cf9282",
+    "text": "Hello!",
+    "isSender": true,
+    "timestamp": "2025-01-01T19:29:00Z",
+    "author": "You"
+  },
+  {
+    "id": "6818452b-bad8-403d-a4ba-78b66bd7b214",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T19:30:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "960a9115-8b72-4924-a97c-110f0e5d22f1",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T19:31:00Z",
+    "author": "You"
+  },
+  {
+    "id": "e82ed3c9-e61a-4823-ae21-c33319370f2b",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-01T19:32:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "e3f9ac0a-d7a8-4c7f-828c-e1b215360220",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T19:33:00Z",
+    "author": "You"
+  },
+  {
+    "id": "4ca8b6d4-f13d-433d-b7c1-32f32fe1cdfc",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T19:34:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "ac1b804d-02f7-4069-9b2e-2e0076005241",
+    "text": "JSON data incoming.",
+    "isSender": false,
+    "timestamp": "2025-01-01T19:35:00Z",
+    "author": "You"
+  },
+  {
+    "id": "b85faab1-2e1e-4674-bb3e-55d412697e79",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T19:36:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "68013be7-8bd2-4722-8835-c5fe374d71c9",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-01T19:37:00Z",
+    "author": "You"
+  },
+  {
+    "id": "fdff59db-143f-4916-b356-a237eced2fee",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T19:38:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "d02b1a9a-f840-4f47-a763-5eec1c488f14",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T19:39:00Z",
+    "author": "You"
+  },
+  {
+    "id": "3a344363-5908-40c5-aa45-f563efc3b683",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-01T19:40:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "3d38145b-6982-487c-9eaa-99bd30710e55",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T19:41:00Z",
+    "author": "You"
+  },
+  {
+    "id": "878a5ae2-7237-409d-99c1-b39431b7523f",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T19:42:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "508d68b0-e0ae-4b63-b188-ddb966939e12",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T19:43:00Z",
+    "author": "You"
+  },
+  {
+    "id": "7ea286a5-d61e-4182-bc34-864c7bb6880e",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-01T19:44:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "5588c8d0-781d-46a4-b108-b8ba8acfcdcc",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-01T19:45:00Z",
+    "author": "You"
+  },
+  {
+    "id": "700469b3-6d44-4764-a973-68c8e1db268f",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-01T19:46:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "bd5fc990-94b2-4123-80f5-464c871b6144",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T19:47:00Z",
+    "author": "You"
+  },
+  {
+    "id": "ddc48172-c56d-498c-86cd-2bf53ef620b7",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-01T19:48:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "8b42f315-edd0-4853-9c23-8c25a62ab14a",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-01T19:49:00Z",
+    "author": "You"
+  },
+  {
+    "id": "927ebf76-60fc-4405-84ec-6920351137db",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-01T19:50:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "79c87219-b2b1-4d16-8709-1a12af3c3d38",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-01T19:51:00Z",
+    "author": "You"
+  },
+  {
+    "id": "6594f3c7-4373-4ddd-a75a-cc576390c668",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T19:52:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "79eb505c-2094-4f79-9a4e-4ae2f39e5d97",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-01T19:53:00Z",
+    "author": "You"
+  },
+  {
+    "id": "526c019e-632a-4e0b-a7af-7fbf125592f0",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T19:54:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "e88cdc19-5bf8-437f-abf7-c2790379e893",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-01T19:55:00Z",
+    "author": "You"
+  },
+  {
+    "id": "cfaedbbe-c8f2-40c8-b484-1525e4b6e762",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-01T19:56:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "7ebdcaaa-068f-4a91-aef3-d538a4d346ff",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-01T19:57:00Z",
+    "author": "You"
+  },
+  {
+    "id": "eb64d17f-bc69-473f-bde5-f4c959fd3e39",
+    "text": "This is a test.",
+    "isSender": true,
+    "timestamp": "2025-01-01T19:58:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "95850a2a-5ac2-4110-b5f8-596784fe3e1d",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T19:59:00Z",
+    "author": "You"
+  },
+  {
+    "id": "a629ed7b-9326-4b77-a75d-e0afffaf3920",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T20:00:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "fbc6a995-4862-4950-b83b-099bcb13a98b",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-01T20:01:00Z",
+    "author": "You"
+  },
+  {
+    "id": "72663bcf-6201-4615-889b-0312c107c014",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T20:02:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "bf94f374-4071-4561-9be5-fa8365ef6d7b",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T20:03:00Z",
+    "author": "You"
+  },
+  {
+    "id": "ed9aeeea-fd9f-47c0-8e0b-d423f747491f",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-01T20:04:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "13e526c2-e8b5-4104-8b55-3d5de2a6bc60",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-01T20:05:00Z",
+    "author": "You"
+  },
+  {
+    "id": "e2f3dc7b-f7a0-4e65-8e30-96e282a6ae4e",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T20:06:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "e0af1da7-87fc-4184-91c0-bf42766e66e5",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-01T20:07:00Z",
+    "author": "You"
+  },
+  {
+    "id": "bd98acd6-fd53-477c-b8bc-e1685207d277",
+    "text": "Hello!",
+    "isSender": true,
+    "timestamp": "2025-01-01T20:08:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "660b4473-8e8c-4e01-b09c-38b47e39ef39",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T20:09:00Z",
+    "author": "You"
+  },
+  {
+    "id": "740a70a4-b092-4560-a37e-2f28cf70e154",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-01T20:10:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "94eee8f2-7214-444b-b288-97b4a3244c80",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-01T20:11:00Z",
+    "author": "You"
+  },
+  {
+    "id": "83b89ee1-d6c2-4771-968e-76684a5ac57a",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T20:12:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "89871c86-eb12-48e1-b00e-4a2924f1b54e",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-01T20:13:00Z",
+    "author": "You"
+  },
+  {
+    "id": "88fb7241-56b0-4a75-bcb3-14023217ff0e",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-01T20:14:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "f1cc0a31-9cec-4a8d-95f9-06eb68d99705",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T20:15:00Z",
+    "author": "You"
+  },
+  {
+    "id": "41e7ab80-e51e-4f20-907b-0f304d740200",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-01T20:16:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "6ed545c4-ce0a-428c-93f5-08bc66e49420",
+    "text": "Hello!",
+    "isSender": true,
+    "timestamp": "2025-01-01T20:17:00Z",
+    "author": "You"
+  },
+  {
+    "id": "aca21f0b-9b13-470e-b47c-0ed8fda72ff5",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T20:18:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "d1c00e5a-8d48-4d14-a5fa-2420bcfd34e6",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-01T20:19:00Z",
+    "author": "You"
+  },
+  {
+    "id": "63d44908-ce36-45e6-8fbc-9c9258cd4d7c",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T20:20:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "caaa8ac3-788b-406c-b1a9-2aa925bd264f",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T20:21:00Z",
+    "author": "You"
+  },
+  {
+    "id": "a60aa6be-bea0-4eb4-87ca-f3e4a1f3465d",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T20:22:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "f7eb0f63-9513-455e-91da-e1a46027c76f",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T20:23:00Z",
+    "author": "You"
+  },
+  {
+    "id": "639543fd-6b34-4cf3-8b8d-a14a1ab63dfe",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T20:24:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "ddfab7cc-1aea-4bd2-817d-faa20e8d023f",
+    "text": "Hello!",
+    "isSender": true,
+    "timestamp": "2025-01-01T20:25:00Z",
+    "author": "You"
+  },
+  {
+    "id": "1ee9b38b-30e6-47fb-aead-6c8ba3e0c926",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-01T20:26:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "9d3c09d4-0812-4dde-94ac-0b60fbe112a3",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T20:27:00Z",
+    "author": "You"
+  },
+  {
+    "id": "d53e8347-36d8-4e58-8cab-9cfd841ab5da",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T20:28:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "b623a416-caaf-4c1f-b869-679be660b1ed",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T20:29:00Z",
+    "author": "You"
+  },
+  {
+    "id": "bef2fdd3-1f1e-4c0f-bb9f-df66c17af913",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-01T20:30:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "53417dcf-2cd1-4970-9f16-540690fb0010",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-01T20:31:00Z",
+    "author": "You"
+  },
+  {
+    "id": "9adf20d8-9308-4d03-89fb-01ce7209a002",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T20:32:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "c9d7f18b-52d5-43d0-bb02-127f3d0b5fb6",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-01T20:33:00Z",
+    "author": "You"
+  },
+  {
+    "id": "07ef38d5-0776-4fae-bf21-0b0171cc331c",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-01T20:34:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "11020381-c80b-475b-b93f-5baf1b5a63cd",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-01T20:35:00Z",
+    "author": "You"
+  },
+  {
+    "id": "e1e9409e-d033-40ca-98dc-c2ce3e284a4c",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-01T20:36:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "bc7e6356-26b0-4757-bdb0-e0adc8fcd26c",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T20:37:00Z",
+    "author": "You"
+  },
+  {
+    "id": "e3254742-d234-4661-87bb-39b9c041de3c",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-01T20:38:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "bde624e9-b4d6-4cbd-af5a-67802c4c80bf",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-01T20:39:00Z",
+    "author": "You"
+  },
+  {
+    "id": "4b7317c1-6b3b-443c-b872-70cd89214fc7",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T20:40:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "1a3b345c-d531-4398-b273-b2ff71bff03a",
+    "text": "This is a test.",
+    "isSender": true,
+    "timestamp": "2025-01-01T20:41:00Z",
+    "author": "You"
+  },
+  {
+    "id": "b154f6fb-96a2-4652-9314-b4cc8f0dafdd",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-01T20:42:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "2e65b2d6-45f2-455b-b256-8bc22941f259",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T20:43:00Z",
+    "author": "You"
+  },
+  {
+    "id": "e6f44f42-28d8-431b-9a5a-12f93b8a6a1c",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-01T20:44:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "6c695678-ee3c-4494-8988-f53193647a73",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T20:45:00Z",
+    "author": "You"
+  },
+  {
+    "id": "5e8cf7e9-ede6-4dbc-a272-42a1772911b2",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T20:46:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "7bf047fd-3e1d-42f9-9c0c-0e6f811fd910",
+    "text": "Hello!",
+    "isSender": true,
+    "timestamp": "2025-01-01T20:47:00Z",
+    "author": "You"
+  },
+  {
+    "id": "eb3fe0f1-1b33-4a47-add6-1e85250043fa",
+    "text": "This is a test.",
+    "isSender": true,
+    "timestamp": "2025-01-01T20:48:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "3e42e015-0b3b-49eb-a9b7-ae4538c67de1",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T20:49:00Z",
+    "author": "You"
+  },
+  {
+    "id": "3b86860e-4b87-43e1-99bb-e25c84870609",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-01T20:50:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "c15e9595-123d-4d9c-b9fc-fe06dbe85804",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T20:51:00Z",
+    "author": "You"
+  },
+  {
+    "id": "5d731413-0d53-4ea5-ad18-3d472656bc0f",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T20:52:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "d3d7c940-210c-4f2e-bc76-ce4f0e830e96",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-01T20:53:00Z",
+    "author": "You"
+  },
+  {
+    "id": "685f0d98-b3bc-437f-9d70-40c43e9a2833",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T20:54:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "3c72d646-8585-4ae3-9fcc-ab6ec6567700",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T20:55:00Z",
+    "author": "You"
+  },
+  {
+    "id": "8e200e4c-92ad-4692-b442-d1f35642a619",
+    "text": "Hello!",
+    "isSender": true,
+    "timestamp": "2025-01-01T20:56:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "dfa261d0-2d80-4026-bdb8-db33fb003e53",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-01T20:57:00Z",
+    "author": "You"
+  },
+  {
+    "id": "75945578-76a2-4fec-9571-81d5022690eb",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-01T20:58:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "b347aa96-6588-4aac-8167-79c765d33f77",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-01T20:59:00Z",
+    "author": "You"
+  },
+  {
+    "id": "cb72dcc1-1d77-460a-b10f-581be0f86b28",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T21:00:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "453a145b-cb77-4135-9845-7dce3408209a",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-01T21:01:00Z",
+    "author": "You"
+  },
+  {
+    "id": "41974fde-9f3a-45cb-b988-7a3cfe8a0adc",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T21:02:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "d5cbdec5-7c0d-4f7e-a627-2ba8e60b38a2",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-01T21:03:00Z",
+    "author": "You"
+  },
+  {
+    "id": "2f350de0-101a-414d-8a0e-1c89a5495e68",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-01T21:04:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "42f45224-9702-4442-9b8a-6a431c032ac4",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-01T21:05:00Z",
+    "author": "You"
+  },
+  {
+    "id": "8ac0d6bf-ecc8-4501-a2ab-838867a2e4a8",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T21:06:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "a3616ba0-40f0-4a8f-b57e-e62e7b2747be",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T21:07:00Z",
+    "author": "You"
+  },
+  {
+    "id": "5f3ffbb6-caee-4fd1-8544-2e12a04ae1c6",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T21:08:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "0e6bcf80-ea58-4ec0-a0ee-522844fcf39c",
+    "text": "JSON data incoming.",
+    "isSender": false,
+    "timestamp": "2025-01-01T21:09:00Z",
+    "author": "You"
+  },
+  {
+    "id": "3841b704-793e-451e-8002-5eeb68167825",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-01T21:10:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "835ae6f0-d777-47ca-9f9e-ff19bc7b82d1",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T21:11:00Z",
+    "author": "You"
+  },
+  {
+    "id": "3c4bcfd2-071e-4946-b798-8a8b8706d5b3",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-01T21:12:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "527fcae3-6732-4a1e-82e6-e7463f1ba927",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T21:13:00Z",
+    "author": "You"
+  },
+  {
+    "id": "3b4f2522-6086-4d73-851c-50313de8851d",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T21:14:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "188ee377-5c4b-44d6-b813-c9ad1ff84b4b",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T21:15:00Z",
+    "author": "You"
+  },
+  {
+    "id": "902bb951-8743-40a8-842e-4f2f26d8392e",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-01T21:16:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "8b6b9367-90f0-455c-9b3f-577b4efcbb38",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T21:17:00Z",
+    "author": "You"
+  },
+  {
+    "id": "89f48d28-1559-4865-8f85-c84a4b9f7a30",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T21:18:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "9ec8d0bb-b16c-46fc-bdc6-368d5520fce6",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-01T21:19:00Z",
+    "author": "You"
+  },
+  {
+    "id": "94384f61-6487-4a3f-8a49-8a3e5b278efb",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-01T21:20:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "15eefde1-3a3c-404b-b240-ce8dfc8c396b",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T21:21:00Z",
+    "author": "You"
+  },
+  {
+    "id": "25093a0a-a717-4edc-b8ea-3e61d470696e",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T21:22:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "09896fc6-38f5-4b28-b7d0-484b5be1be20",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-01T21:23:00Z",
+    "author": "You"
+  },
+  {
+    "id": "f60b8b4b-849e-4735-954b-1927a75fd9ec",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-01T21:24:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "bfb37e1c-c44e-4315-b56f-8723957cceed",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-01T21:25:00Z",
+    "author": "You"
+  },
+  {
+    "id": "6025f1ec-b033-4e5f-88b1-c1e0b0cbf143",
+    "text": "Hello!",
+    "isSender": true,
+    "timestamp": "2025-01-01T21:26:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "9ffa184e-5ea4-469a-81ba-be6d73a36571",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T21:27:00Z",
+    "author": "You"
+  },
+  {
+    "id": "f085d54d-d96d-4828-9230-d8c6a8cefeac",
+    "text": "This is a test.",
+    "isSender": true,
+    "timestamp": "2025-01-01T21:28:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "f1850bc8-0c4a-45a6-8b66-a28659f055e3",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-01T21:29:00Z",
+    "author": "You"
+  },
+  {
+    "id": "f2f6c8fb-5318-4e0e-96fd-b8a9a70a8e16",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T21:30:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "b425be51-de0d-4a6f-9df2-340e6eec00d9",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-01T21:31:00Z",
+    "author": "You"
+  },
+  {
+    "id": "58854dac-7e0f-42c7-86d5-d69fe1e4432b",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T21:32:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "706ee8b1-76fe-43e1-80bb-baa3ddf19930",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T21:33:00Z",
+    "author": "You"
+  },
+  {
+    "id": "e4cad9b1-ae9f-4d69-bf06-c62b0b264bde",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T21:34:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "61573078-d7d2-4930-a77f-9ad6c50ec9b3",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-01T21:35:00Z",
+    "author": "You"
+  },
+  {
+    "id": "b1fea924-2baa-421b-9f66-c9687b5286b9",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-01T21:36:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "0cb03af1-f215-4ef8-a9ac-6f562527261d",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-01T21:37:00Z",
+    "author": "You"
+  },
+  {
+    "id": "f9b582ce-8518-4b96-9c55-890e26af4dde",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-01T21:38:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "a82bf2c4-85d1-46ba-91cc-e0c1aea8fa78",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-01T21:39:00Z",
+    "author": "You"
+  },
+  {
+    "id": "ff5ba58d-0584-4834-bc28-bbb962fe7de9",
+    "text": "This is a test.",
+    "isSender": true,
+    "timestamp": "2025-01-01T21:40:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "06a4e701-1239-4046-a344-42a80eec340c",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T21:41:00Z",
+    "author": "You"
+  },
+  {
+    "id": "63cc5a56-ba57-4fd8-88d8-556f9ffc8f15",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-01T21:42:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "d5783908-0dd0-47fc-bbf5-bbafc3d8c5b7",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-01T21:43:00Z",
+    "author": "You"
+  },
+  {
+    "id": "aadc7fe9-76ce-4cc4-8d7c-6d21c369aa29",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T21:44:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "b2cfeb4e-d5d1-4f70-bd68-426827bbea73",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-01T21:45:00Z",
+    "author": "You"
+  },
+  {
+    "id": "64d7926e-3234-4715-97a5-5042a735e695",
+    "text": "JSON data incoming.",
+    "isSender": false,
+    "timestamp": "2025-01-01T21:46:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "2f55fccc-e677-4da3-a4a4-83917e3ab44b",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-01T21:47:00Z",
+    "author": "You"
+  },
+  {
+    "id": "fc3fea14-771a-46c5-9b06-313139f07b61",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T21:48:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "20b2b2d6-3333-4a76-9f51-763cff0f704c",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-01T21:49:00Z",
+    "author": "You"
+  },
+  {
+    "id": "125b2613-5540-4ee9-9393-47025d27afca",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-01T21:50:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "9159a048-9c21-4f29-8972-821dce149465",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T21:51:00Z",
+    "author": "You"
+  },
+  {
+    "id": "e7a51619-93a6-46c5-bc0b-c8bddb054fc9",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T21:52:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "3e13e1b1-06bc-4dc7-9486-3b42ca7fbeec",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-01T21:53:00Z",
+    "author": "You"
+  },
+  {
+    "id": "53d7ff3c-c806-4582-83a2-4ebfbebc81e7",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-01T21:54:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "f0b185eb-8e3f-4cdb-9ee3-62a22dd133d4",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-01T21:55:00Z",
+    "author": "You"
+  },
+  {
+    "id": "07941ccd-dfc8-4245-9a0e-206717ad87c3",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-01T21:56:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "f7e1d2a0-b2bf-4bab-bc97-3bf8ad1efc10",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T21:57:00Z",
+    "author": "You"
+  },
+  {
+    "id": "c7cd4756-6f25-4e58-be9e-03dd0c31c172",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T21:58:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "37c97d0a-38a2-430f-adc5-163897a89d61",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-01T21:59:00Z",
+    "author": "You"
+  },
+  {
+    "id": "6ddbe194-0514-44b1-b75d-dcfa703a3ab1",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T22:00:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "c6682d95-99b6-426d-9b0b-dc8419bc64c4",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-01T22:01:00Z",
+    "author": "You"
+  },
+  {
+    "id": "a8685319-4405-4cc6-b9a1-36499b779ec1",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-01T22:02:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "73eb07de-5952-471f-8b62-747cd41336b4",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-01T22:03:00Z",
+    "author": "You"
+  },
+  {
+    "id": "398c3e38-45c0-4dd5-a36e-ab2a299fb115",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T22:04:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "9ae57f4d-7983-49f1-adf6-ff0ee4db02d4",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-01T22:05:00Z",
+    "author": "You"
+  },
+  {
+    "id": "841d6738-5974-4d95-a681-9248f779f187",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T22:06:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "53f855b1-51e1-4d89-b14e-7ed9d5d3cd48",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T22:07:00Z",
+    "author": "You"
+  },
+  {
+    "id": "307aa658-c3d9-4adc-8a16-1a38e52a5cd7",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-01T22:08:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "2c2aa6d0-bd1e-446b-88b9-569e5fcdc5a1",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T22:09:00Z",
+    "author": "You"
+  },
+  {
+    "id": "85088b64-72f7-41a9-b0b1-e26dd935263d",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T22:10:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "05128374-6e53-48b5-8f83-185392ec372e",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T22:11:00Z",
+    "author": "You"
+  },
+  {
+    "id": "2eb0ff0a-5ba8-4d48-a40f-30a65c23dd56",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-01T22:12:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "c364718d-5cb9-42bc-923c-acc611469414",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-01T22:13:00Z",
+    "author": "You"
+  },
+  {
+    "id": "e70d6e3c-13a8-443c-a56d-ee9f84fcea09",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-01T22:14:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "3e65ea21-e12b-40c8-9ae5-1d8cb8093d76",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T22:15:00Z",
+    "author": "You"
+  },
+  {
+    "id": "abc46e60-54f3-4551-9d00-7c451b103bfa",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T22:16:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "b4114b7e-afe8-4060-bc84-02e72f57d4e6",
+    "text": "Hello!",
+    "isSender": true,
+    "timestamp": "2025-01-01T22:17:00Z",
+    "author": "You"
+  },
+  {
+    "id": "42adab32-5c09-4c87-9dda-faf229dd2f61",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-01T22:18:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "8aaf3bc2-f549-49b3-94a2-c05ca2baa90c",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-01T22:19:00Z",
+    "author": "You"
+  },
+  {
+    "id": "a10f8316-3fd4-4818-924d-705a7ec9fc71",
+    "text": "Hello!",
+    "isSender": true,
+    "timestamp": "2025-01-01T22:20:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "9e9d485c-a485-4fbd-8044-a5619b758d0b",
+    "text": "JSON data incoming.",
+    "isSender": false,
+    "timestamp": "2025-01-01T22:21:00Z",
+    "author": "You"
+  },
+  {
+    "id": "342649ef-f702-4fe9-aa8f-9cd7bd00e311",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T22:22:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "a204518d-7ef9-4073-ab71-ccfe52fca6d1",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-01T22:23:00Z",
+    "author": "You"
+  },
+  {
+    "id": "17bf2b2e-ba42-444c-8b4b-ba2a4171dd59",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T22:24:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "e055e33e-0ed7-4f54-95f6-3ee821a18c18",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T22:25:00Z",
+    "author": "You"
+  },
+  {
+    "id": "9fa29ab0-5afb-48df-aaeb-5c08067c1afc",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T22:26:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "2680b131-75f8-402d-8d01-adbfe8270b80",
+    "text": "Hello!",
+    "isSender": true,
+    "timestamp": "2025-01-01T22:27:00Z",
+    "author": "You"
+  },
+  {
+    "id": "f2ae2a62-2e99-43a7-8c83-3609d954041a",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-01T22:28:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "a06856da-3722-4c21-93e0-ebfe823a4af1",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-01T22:29:00Z",
+    "author": "You"
+  },
+  {
+    "id": "3d74582a-c712-4434-aa16-ef22eb9427a6",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T22:30:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "1f86803f-16f8-4f8b-974b-83b1536b95c0",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T22:31:00Z",
+    "author": "You"
+  },
+  {
+    "id": "4c7e9064-4a29-4a26-9a2c-af38c7ccdea5",
+    "text": "This is a test.",
+    "isSender": true,
+    "timestamp": "2025-01-01T22:32:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "3554dee6-39eb-437e-a292-70bef416f210",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T22:33:00Z",
+    "author": "You"
+  },
+  {
+    "id": "1aff59ce-26cc-4972-84af-2fe6f541596d",
+    "text": "This is a test.",
+    "isSender": true,
+    "timestamp": "2025-01-01T22:34:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "e8923d5b-78f1-4e5c-a4d0-74fc0d5eec29",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T22:35:00Z",
+    "author": "You"
+  },
+  {
+    "id": "52b967dd-496c-4093-b45c-e58213a817ed",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T22:36:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "c90fd34d-d973-4f05-ae8b-e2f3693ddee5",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-01T22:37:00Z",
+    "author": "You"
+  },
+  {
+    "id": "76f5ac08-1d7b-4892-9146-951db56ba956",
+    "text": "JSON data incoming.",
+    "isSender": false,
+    "timestamp": "2025-01-01T22:38:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "5bcc328f-0b04-4810-b93a-dcaa7f3e8221",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-01T22:39:00Z",
+    "author": "You"
+  },
+  {
+    "id": "1c88b537-d15d-4a61-897e-b27ef9328a03",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-01T22:40:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "24d57f5d-5266-4a74-9ee8-af2266c0e4b4",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T22:41:00Z",
+    "author": "You"
+  },
+  {
+    "id": "5920ed8d-1774-4874-84e0-32ef83e8fd84",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-01T22:42:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "1ea248dd-1c43-43c7-888c-72c7b5006c35",
+    "text": "JSON data incoming.",
+    "isSender": false,
+    "timestamp": "2025-01-01T22:43:00Z",
+    "author": "You"
+  },
+  {
+    "id": "7ec85f27-79ee-465d-bc03-9106d36115ca",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-01T22:44:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "e23e3c67-7217-41c6-9c34-5cb9019fcf52",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T22:45:00Z",
+    "author": "You"
+  },
+  {
+    "id": "7d1cfe9f-2824-46a6-8c96-8b368aaa191a",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-01T22:46:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "88185679-786d-4e8f-ba65-c184fad50937",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-01T22:47:00Z",
+    "author": "You"
+  },
+  {
+    "id": "d5df04fa-b633-470a-9881-19849c0ed912",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T22:48:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "ffacbb00-3415-4736-a5bc-f7db87e1dd39",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T22:49:00Z",
+    "author": "You"
+  },
+  {
+    "id": "0afedc38-78ee-447a-bb76-055442267d1d",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-01T22:50:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "6f4f0de1-3802-4db7-ae8c-2cdb1557bd50",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-01T22:51:00Z",
+    "author": "You"
+  },
+  {
+    "id": "ca1af8f2-e852-4dc2-b9a0-8990293c50bc",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T22:52:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "2e7bdf39-978f-4adf-97c0-b4c9eac3d989",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-01T22:53:00Z",
+    "author": "You"
+  },
+  {
+    "id": "b7b4fbfc-1245-4176-9b2d-8e9ff0b0dd5b",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T22:54:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "0a06086d-8243-4a61-948a-ca39c44c5931",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-01T22:55:00Z",
+    "author": "You"
+  },
+  {
+    "id": "fde0bdc6-778e-4cca-bc93-31ddfbee6a5a",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-01T22:56:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "463384bb-26ed-4be6-b419-efe2c10aea64",
+    "text": "JSON data incoming.",
+    "isSender": false,
+    "timestamp": "2025-01-01T22:57:00Z",
+    "author": "You"
+  },
+  {
+    "id": "b071b258-970b-45f0-a78e-f44128d671db",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-01T22:58:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "372ba1df-d12d-4c2e-b905-4c91da42e594",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-01T22:59:00Z",
+    "author": "You"
+  },
+  {
+    "id": "76a09133-2e26-4eb5-9dc9-2813067f9a11",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T23:00:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "319ef68a-1145-4c58-8bfb-105ac9e8908f",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-01T23:01:00Z",
+    "author": "You"
+  },
+  {
+    "id": "5d1d6a29-9e0f-431d-b262-76ca7f9dc802",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T23:02:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "5b70f5a2-ed04-4f6d-8ef4-a852e096ab9d",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T23:03:00Z",
+    "author": "You"
+  },
+  {
+    "id": "663273ee-6037-45bc-8e80-04181dcfb1c2",
+    "text": "This is a test.",
+    "isSender": true,
+    "timestamp": "2025-01-01T23:04:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "0ff0cb3f-8984-49d1-9677-a90549f077dd",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-01T23:05:00Z",
+    "author": "You"
+  },
+  {
+    "id": "35e293ee-f944-4218-a8c2-f9ac0777b9f7",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-01T23:06:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "e50c587d-cc49-4f6d-b9f4-21fcbf557c84",
+    "text": "Hello!",
+    "isSender": true,
+    "timestamp": "2025-01-01T23:07:00Z",
+    "author": "You"
+  },
+  {
+    "id": "fb63ceb5-0b47-4276-97af-726205d66ef9",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-01T23:08:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "0269f58d-e81a-4ba4-8557-6d8025a914c1",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-01T23:09:00Z",
+    "author": "You"
+  },
+  {
+    "id": "2e63e099-d9ea-4579-b16d-66f19c89757a",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T23:10:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "701aad20-80db-46b0-8c2a-3548436359ac",
+    "text": "Hello!",
+    "isSender": true,
+    "timestamp": "2025-01-01T23:11:00Z",
+    "author": "You"
+  },
+  {
+    "id": "5d011f8b-8df9-4365-b7ca-64dfe2aabab5",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T23:12:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "6befe468-a553-48cb-927c-aee328fd6e96",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-01T23:13:00Z",
+    "author": "You"
+  },
+  {
+    "id": "cf5530f4-9458-4149-ba84-5f1fc55da20b",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-01T23:14:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "bc95f9c2-ff64-4ebf-acb4-fce86bfa1b5f",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T23:15:00Z",
+    "author": "You"
+  },
+  {
+    "id": "765fc147-b52f-478f-aaab-0787cb9a30e9",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-01T23:16:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "487ba89b-0866-45cd-a704-e8d2e88be35b",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-01T23:17:00Z",
+    "author": "You"
+  },
+  {
+    "id": "26d03141-f475-4db3-b76c-b5dccc77abcb",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T23:18:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "2cc82cbd-d9bc-4540-9516-a3274aface70",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T23:19:00Z",
+    "author": "You"
+  },
+  {
+    "id": "b6da9bd5-8709-4dc3-a0a5-861ff1d8c6f0",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-01T23:20:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "dad8e2da-35bf-41a3-9474-13bffd3353b3",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T23:21:00Z",
+    "author": "You"
+  },
+  {
+    "id": "bcd370fa-39f8-48a3-ac6e-a3747fbffef9",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-01T23:22:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "fc8f3a09-a815-417c-b445-e1bfd0aafc38",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T23:23:00Z",
+    "author": "You"
+  },
+  {
+    "id": "3e858b9d-8fc7-42a6-bdf7-0e32c394f92a",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-01T23:24:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "91d37eb2-18a7-4b7e-b679-2750ccb7b276",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-01T23:25:00Z",
+    "author": "You"
+  },
+  {
+    "id": "ef144d86-c874-495d-a969-33e98a286d67",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-01T23:26:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "9caf3d64-6892-4dd5-b70e-f68adca860f5",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T23:27:00Z",
+    "author": "You"
+  },
+  {
+    "id": "7395ff47-99dd-4241-bf03-bbe4b475012c",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-01T23:28:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "0e6e46e8-f1ea-4e0d-a573-efba75cd5847",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-01T23:29:00Z",
+    "author": "You"
+  },
+  {
+    "id": "d3a656a4-548c-470d-bc4c-fa8ffbe6d5e8",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T23:30:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "74f8f87a-540e-4a4d-bbb2-1a8fc9b26c0c",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-01T23:31:00Z",
+    "author": "You"
+  },
+  {
+    "id": "9e7797e9-78d7-4453-b11f-9030bff9e03d",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-01T23:32:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "ab27fc31-7112-4ff7-90a1-f0e996804712",
+    "text": "This is a test.",
+    "isSender": true,
+    "timestamp": "2025-01-01T23:33:00Z",
+    "author": "You"
+  },
+  {
+    "id": "24d621b7-eb03-4876-898f-dba7360f8fe1",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-01T23:34:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "3ed4b842-f1c5-471c-8d4a-400729854754",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-01T23:35:00Z",
+    "author": "You"
+  },
+  {
+    "id": "2dbf53da-ef7e-4278-a37a-a4bab786d656",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-01T23:36:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "b84113de-a378-43cf-9b24-b8b52107becf",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-01T23:37:00Z",
+    "author": "You"
+  },
+  {
+    "id": "e13dd467-96fa-4486-bc4a-10e3f38f7dcf",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-01T23:38:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "132de1b1-0c19-49d7-9bbf-8bc270a90c52",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-01T23:39:00Z",
+    "author": "You"
+  },
+  {
+    "id": "8dd74870-ba20-4392-858a-d7b41ccf7031",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-01T23:40:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "d5a8d710-91a2-44e5-ac12-71a84a2e6ed2",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-01T23:41:00Z",
+    "author": "You"
+  },
+  {
+    "id": "a5413e6f-2d23-4cb4-8eb4-916ffd80914c",
+    "text": "JSON data incoming.",
+    "isSender": false,
+    "timestamp": "2025-01-01T23:42:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "a09023b9-5e6d-4c45-a780-761ea00bb299",
+    "text": "Hello!",
+    "isSender": true,
+    "timestamp": "2025-01-01T23:43:00Z",
+    "author": "You"
+  },
+  {
+    "id": "6a9024b8-a6ba-4b10-ba7d-6dbf169564c1",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-01T23:44:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "cb7e3758-fc39-4cb9-8f72-0c120403ac47",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-01T23:45:00Z",
+    "author": "You"
+  },
+  {
+    "id": "6bee61e6-5682-4280-9e2d-7a485f3ef5a6",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-01T23:46:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "0c0859a3-43a2-4702-9d60-a1dff95ab4f1",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-01T23:47:00Z",
+    "author": "You"
+  },
+  {
+    "id": "82f16a0d-0018-4e4b-a377-d5ed3c7de94f",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T23:48:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "21b4118d-5e8c-4755-a6c8-ca87eee14ce6",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-01T23:49:00Z",
+    "author": "You"
+  },
+  {
+    "id": "37add18b-1112-4837-a6eb-c9a933e42074",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-01T23:50:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "e4da679b-b7c7-4084-8785-db7933147acf",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T23:51:00Z",
+    "author": "You"
+  },
+  {
+    "id": "02397d97-a780-47a7-90c0-1d67504d755c",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-01T23:52:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "040e128a-aac2-477a-b174-ff4c3b5ebfbb",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-01T23:53:00Z",
+    "author": "You"
+  },
+  {
+    "id": "ee6e6320-f6b5-483c-b666-54ec204fed36",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-01T23:54:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "cb86447e-8dee-42ef-a3c7-c7039b9b3a8c",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-01T23:55:00Z",
+    "author": "You"
+  },
+  {
+    "id": "4ad07ef3-d1bb-4a44-8285-516306fd0e57",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-01T23:56:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "a556ea6e-6ca7-4a32-b64f-82b68d639803",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-01T23:57:00Z",
+    "author": "You"
+  },
+  {
+    "id": "0045c874-0cd3-4c05-bdf6-a9e21fd53320",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-01T23:58:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "e19d4f7d-7947-4bab-a82b-dab5651b6b82",
+    "text": "JSON data incoming.",
+    "isSender": false,
+    "timestamp": "2025-01-01T23:59:00Z",
+    "author": "You"
+  },
+  {
+    "id": "3c5932ab-56a8-4c20-a474-860c4276c970",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-02T00:00:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "fb37a7a7-a3cb-465c-a576-a76f27a060e0",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-02T00:01:00Z",
+    "author": "You"
+  },
+  {
+    "id": "c0acc286-9477-4222-9bae-b2010cf0c9b8",
+    "text": "Hello!",
+    "isSender": true,
+    "timestamp": "2025-01-02T00:02:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "29b32ad5-faff-4d10-9f88-d76e987496ac",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-02T00:03:00Z",
+    "author": "You"
+  },
+  {
+    "id": "9282e753-1663-4b24-b6ef-fe58afba2445",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-02T00:04:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "1a54df45-a10c-4517-a9a0-c7b92f73c4d5",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-02T00:05:00Z",
+    "author": "You"
+  },
+  {
+    "id": "6f66183e-e7b5-4d5f-8163-59c04191766a",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-02T00:06:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "4f71cab7-4631-4e6d-843b-89ac9b66b366",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-02T00:07:00Z",
+    "author": "You"
+  },
+  {
+    "id": "f5d6a65c-5b8f-465d-9649-52af4c53c52a",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-02T00:08:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "e77c9299-5419-4e74-b8e2-afd461e3ea05",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-02T00:09:00Z",
+    "author": "You"
+  },
+  {
+    "id": "ae778b0f-0e7a-4366-a004-1caa3d8db7d3",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-02T00:10:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "1d8d0bd0-58c7-48df-90bc-5d09f89cda3e",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-02T00:11:00Z",
+    "author": "You"
+  },
+  {
+    "id": "f0784903-beb0-400b-91f0-323f252cb3e7",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-02T00:12:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "ac31beab-6349-4f8d-a6bf-eaaa93bd81de",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-02T00:13:00Z",
+    "author": "You"
+  },
+  {
+    "id": "8aaf7f01-79e0-4e38-8888-f80ce5538ad7",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-02T00:14:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "aee25cc5-9ce6-4f6f-a4d5-32126db251f3",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-02T00:15:00Z",
+    "author": "You"
+  },
+  {
+    "id": "7e66a35c-d0b6-4b36-82f1-979fd2ca9ca1",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-02T00:16:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "2a93e87f-0159-497a-8df4-7c53d797640e",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-02T00:17:00Z",
+    "author": "You"
+  },
+  {
+    "id": "0bb0b108-a98c-4a3f-82db-6daa409f2d67",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-02T00:18:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "f55a90da-dfe0-4987-ad74-e1e811f2f7ff",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-02T00:19:00Z",
+    "author": "You"
+  },
+  {
+    "id": "66798eb1-5028-47cc-8b0d-99a6ac1fc13c",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-02T00:20:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "1a9b285d-3080-42d7-89e6-717af41503ef",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-02T00:21:00Z",
+    "author": "You"
+  },
+  {
+    "id": "5918f45a-29ec-4818-bf7e-d39237474948",
+    "text": "Hello!",
+    "isSender": true,
+    "timestamp": "2025-01-02T00:22:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "62136a5f-964e-4cc4-863e-b969f9a29a3a",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-02T00:23:00Z",
+    "author": "You"
+  },
+  {
+    "id": "b7cdec9d-e898-453a-aba3-2c34ff9aca18",
+    "text": "Hello!",
+    "isSender": true,
+    "timestamp": "2025-01-02T00:24:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "57ed4081-10d9-48ba-865a-9d780e0168c7",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-02T00:25:00Z",
+    "author": "You"
+  },
+  {
+    "id": "08290efe-76b9-49a7-a5ab-d36a33b7de05",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-02T00:26:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "0f9c094b-dcfc-4e12-9020-605ef8c15f57",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-02T00:27:00Z",
+    "author": "You"
+  },
+  {
+    "id": "0bf27f1f-fc72-4c71-92e9-ef49ba45cb59",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-02T00:28:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "9411901a-0754-4801-aa04-421fac34377c",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-02T00:29:00Z",
+    "author": "You"
+  },
+  {
+    "id": "1cf1b644-5be2-4d46-a154-b9808c440a52",
+    "text": "This is a test.",
+    "isSender": true,
+    "timestamp": "2025-01-02T00:30:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "ffc277f1-6fff-4312-9e80-36832195ce9f",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-02T00:31:00Z",
+    "author": "You"
+  },
+  {
+    "id": "87e1b215-72fd-4a13-bbe2-1e0b12f06f5c",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-02T00:32:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "1f814f8c-2762-4844-b274-9ffeed12aa44",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-02T00:33:00Z",
+    "author": "You"
+  },
+  {
+    "id": "44b5fd0d-3a60-4bc9-bb50-31f20f967940",
+    "text": "JSON data incoming.",
+    "isSender": false,
+    "timestamp": "2025-01-02T00:34:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "2a3bc0f2-cd9c-407c-8287-bcbbddba6121",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-02T00:35:00Z",
+    "author": "You"
+  },
+  {
+    "id": "654c6ce4-c475-4bc9-b373-b2be933713ad",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-02T00:36:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "ec19009c-aa5c-415a-8dd5-9ea2b93db814",
+    "text": "Hello!",
+    "isSender": true,
+    "timestamp": "2025-01-02T00:37:00Z",
+    "author": "You"
+  },
+  {
+    "id": "7f212cc3-0a3f-4d35-a629-9f64bf6306ce",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-02T00:38:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "6c262103-15a8-4d79-9d95-bfb49884c5d5",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-02T00:39:00Z",
+    "author": "You"
+  },
+  {
+    "id": "03d7f239-ea45-435f-b963-217df422a2d8",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-02T00:40:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "12eaa452-3176-4962-84f7-cf9d025a611e",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-02T00:41:00Z",
+    "author": "You"
+  },
+  {
+    "id": "3c111161-dd99-49b8-aabf-7bb57ed587e7",
+    "text": "JSON data incoming.",
+    "isSender": false,
+    "timestamp": "2025-01-02T00:42:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "6b91f2b1-3dde-4a23-9af8-2845f7595f07",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-02T00:43:00Z",
+    "author": "You"
+  },
+  {
+    "id": "5543e004-3a74-4eda-9e7d-8eb48887cd61",
+    "text": "Hello!",
+    "isSender": true,
+    "timestamp": "2025-01-02T00:44:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "f424379b-d767-4588-9b90-833c79daa1ea",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-02T00:45:00Z",
+    "author": "You"
+  },
+  {
+    "id": "23edda6f-1508-4e53-80ff-95ff6c5f419b",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-02T00:46:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "27bde4b5-7291-4087-b613-b2ad739ba09c",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-02T00:47:00Z",
+    "author": "You"
+  },
+  {
+    "id": "84dc40d6-d2cd-4d97-be20-2e6d614a6e12",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-02T00:48:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "5ecf1b5b-c4b6-4c70-be2a-4f162784e3ac",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-02T00:49:00Z",
+    "author": "You"
+  },
+  {
+    "id": "eac1a2ff-730c-430b-99b2-3440225bf1ff",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-02T00:50:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "4331b3fe-3df1-4fe8-993d-8a5083ef70b4",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-02T00:51:00Z",
+    "author": "You"
+  },
+  {
+    "id": "7827f2c1-d883-4a9b-826f-c04b980e670b",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-02T00:52:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "3a5501f5-4beb-4151-b04e-49a4a83c6f92",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-02T00:53:00Z",
+    "author": "You"
+  },
+  {
+    "id": "c901e19e-afc8-4e1b-8f69-d162dfde1a5d",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-02T00:54:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "04a82635-ca3e-4d8b-a127-e30cddb4f17b",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-02T00:55:00Z",
+    "author": "You"
+  },
+  {
+    "id": "63355788-0cc1-4469-a9da-8e06320f87ea",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-02T00:56:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "67ee22d6-b714-4d7a-974d-8895e0dfa0f7",
+    "text": "JSON data incoming.",
+    "isSender": false,
+    "timestamp": "2025-01-02T00:57:00Z",
+    "author": "You"
+  },
+  {
+    "id": "1e65b214-fdab-4dfb-9090-a1128a0843e0",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-02T00:58:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "0e53ee9d-08d4-40da-bdf8-32f0f3280d69",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-02T00:59:00Z",
+    "author": "You"
+  },
+  {
+    "id": "5a64ecea-54d0-44ca-b3a5-a0dcd2223f92",
+    "text": "This is a test.",
+    "isSender": true,
+    "timestamp": "2025-01-02T01:00:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "d5c033f4-4ff0-42b8-a90d-7470a7f6d6b1",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-02T01:01:00Z",
+    "author": "You"
+  },
+  {
+    "id": "b43cef25-2b0b-4804-b771-bd1f2a98301f",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-02T01:02:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "e51f6da2-6b73-4b5f-a002-8730642c64f5",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-02T01:03:00Z",
+    "author": "You"
+  },
+  {
+    "id": "b366e43a-0e4f-4a40-b5f9-ea588c869041",
+    "text": "Hello!",
+    "isSender": true,
+    "timestamp": "2025-01-02T01:04:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "6c1b629f-ed28-49a5-9263-79f384a3bc25",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-02T01:05:00Z",
+    "author": "You"
+  },
+  {
+    "id": "a435917f-2f5c-4de3-b9f1-d787b2593d3c",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-02T01:06:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "ef5b9ff9-1b06-4c4c-aa5f-8976ff01cffe",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-02T01:07:00Z",
+    "author": "You"
+  },
+  {
+    "id": "5025fdb7-bd4d-40ef-8e7a-b85d1e3362ce",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-02T01:08:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "60491854-ca1a-488c-8be8-68a93ed28340",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-02T01:09:00Z",
+    "author": "You"
+  },
+  {
+    "id": "19ec5171-dc36-46c9-b6b0-634eed0ece04",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-02T01:10:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "3ff52a65-c0c3-4ce1-852e-96170c8e8291",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-02T01:11:00Z",
+    "author": "You"
+  },
+  {
+    "id": "9bb9a97f-6a8a-4334-aaaf-96164b5ad8f5",
+    "text": "Hello!",
+    "isSender": true,
+    "timestamp": "2025-01-02T01:12:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "e6bc29eb-5fdb-4e6d-b561-3290ae4b0d17",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-02T01:13:00Z",
+    "author": "You"
+  },
+  {
+    "id": "8b140a35-3cbb-4b71-8d3d-17fcc5403b5e",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-02T01:14:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "33e5cfbc-a5f2-4180-80df-a510a1e5c350",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-02T01:15:00Z",
+    "author": "You"
+  },
+  {
+    "id": "1446275b-18aa-4233-a875-b8c5bab1f542",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-02T01:16:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "b9adc087-5e9a-45fc-880f-25a1eb413440",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-02T01:17:00Z",
+    "author": "You"
+  },
+  {
+    "id": "8eaf5e7b-c582-4be6-86de-f883ab9137a4",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-02T01:18:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "c1c1da5f-af21-4f24-8cfb-c7a31b0210d4",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-02T01:19:00Z",
+    "author": "You"
+  },
+  {
+    "id": "b814e008-b3e7-4ebd-9953-8be53643b767",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-02T01:20:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "bfc8b001-29ef-432b-9bb2-0c9c5d068862",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-02T01:21:00Z",
+    "author": "You"
+  },
+  {
+    "id": "a15d4660-4cdb-4daf-9e6c-44dc8a714cab",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-02T01:22:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "a55fce7f-c2cf-4b9d-90c7-c7bbe5466c3a",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-02T01:23:00Z",
+    "author": "You"
+  },
+  {
+    "id": "695e5881-1c76-4cab-869d-1109595bd56c",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-02T01:24:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "6b79ba14-c1e5-419c-a355-d719accaacbf",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-02T01:25:00Z",
+    "author": "You"
+  },
+  {
+    "id": "af9f1f4b-04c3-4bfd-bcfd-a3f83e60de02",
+    "text": "This is a test.",
+    "isSender": true,
+    "timestamp": "2025-01-02T01:26:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "064dac85-474c-4be6-815c-1d8342144455",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-02T01:27:00Z",
+    "author": "You"
+  },
+  {
+    "id": "83e1d5e6-d7c8-4a94-9998-afc6b4aa4249",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-02T01:28:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "adaef778-7b88-40a0-a1f6-e2919afc4eec",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-02T01:29:00Z",
+    "author": "You"
+  },
+  {
+    "id": "7bdaf631-0e3b-471b-a801-6de524094165",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-02T01:30:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "30889f35-bfd8-42e4-83d5-1178f767d7c7",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-02T01:31:00Z",
+    "author": "You"
+  },
+  {
+    "id": "edca49f9-9c6b-4e4b-a3b9-a4cce96d7b78",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-02T01:32:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "06d7b336-f183-4dc5-b38c-58755481d1bf",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-02T01:33:00Z",
+    "author": "You"
+  },
+  {
+    "id": "091d8a09-8807-44f1-b410-124bcca96468",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-02T01:34:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "23c2d56c-3bcc-4514-bc18-cdba41726c54",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-02T01:35:00Z",
+    "author": "You"
+  },
+  {
+    "id": "f6ae6579-b85e-41f9-b427-87f895d0605a",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-02T01:36:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "253c3d94-7d23-4124-b4af-b5329758b54b",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-02T01:37:00Z",
+    "author": "You"
+  },
+  {
+    "id": "87451317-7590-409f-88c7-2bc826afc55a",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-02T01:38:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "a07f9c7a-9e75-49df-b7b4-490c2ec7ddac",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-02T01:39:00Z",
+    "author": "You"
+  },
+  {
+    "id": "4298fb99-1396-487f-b54f-8e4120404528",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-02T01:40:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "cb3ff341-87ca-4dc2-aaed-1e2bd993e511",
+    "text": "This is a test.",
+    "isSender": true,
+    "timestamp": "2025-01-02T01:41:00Z",
+    "author": "You"
+  },
+  {
+    "id": "40090bb0-7e80-4d1d-8770-a9e8391533ae",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-02T01:42:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "a72d08af-00f2-4bc7-bd77-82038ddb5d14",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-02T01:43:00Z",
+    "author": "You"
+  },
+  {
+    "id": "60703d2f-6d0f-480e-9c6a-37580b67ace9",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-02T01:44:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "bc7b298d-a615-423b-a52f-622c99869aa2",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-02T01:45:00Z",
+    "author": "You"
+  },
+  {
+    "id": "53a7edf2-275e-477d-a98c-e17cb7d77eed",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-02T01:46:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "b99a8b96-c95c-49aa-9701-7ddf60226859",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-02T01:47:00Z",
+    "author": "You"
+  },
+  {
+    "id": "cdeed77c-25cd-4e37-8ca8-996de2792e3f",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-02T01:48:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "9268e373-2846-4835-bd25-4cead822ed14",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-02T01:49:00Z",
+    "author": "You"
+  },
+  {
+    "id": "9d80ce22-497f-4d40-803c-664577af7885",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-02T01:50:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "d75d1ddb-bbdf-497f-a3a3-2a18a37976d3",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-02T01:51:00Z",
+    "author": "You"
+  },
+  {
+    "id": "baa0c4b3-05e2-477a-8aca-60f9762dd095",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-02T01:52:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "1ccbeae0-a91b-49e5-aefc-ab4bfbd3911f",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-02T01:53:00Z",
+    "author": "You"
+  },
+  {
+    "id": "4d000754-abd6-4c75-974f-46e635533dc5",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-02T01:54:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "c4386333-661a-407d-b716-bebfa6b5f96e",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-02T01:55:00Z",
+    "author": "You"
+  },
+  {
+    "id": "cd3c6555-891c-41db-a4db-9d517490650d",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-02T01:56:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "07fffce9-a61d-4f34-b35f-9d3c55cdc4fa",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-02T01:57:00Z",
+    "author": "You"
+  },
+  {
+    "id": "2833b12f-a115-41b0-8d94-161cfb6e03ff",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-02T01:58:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "34551acd-dd9e-4680-bedc-b773de39ad80",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-02T01:59:00Z",
+    "author": "You"
+  },
+  {
+    "id": "08c0658a-cdbc-4f3c-8265-549e39ee83e0",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-02T02:00:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "01eec539-2774-40dc-9be0-ed84c8786659",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-02T02:01:00Z",
+    "author": "You"
+  },
+  {
+    "id": "395e1860-8496-4357-bd10-604fee3e77e7",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-02T02:02:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "44c7483e-ba20-4ef5-b66f-87175da4fe39",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-02T02:03:00Z",
+    "author": "You"
+  },
+  {
+    "id": "a874074e-fc29-4e9c-af41-95ff7d1d9921",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-02T02:04:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "c303e4b3-87f0-4ca0-851e-ef26a3cc4f8d",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-02T02:05:00Z",
+    "author": "You"
+  },
+  {
+    "id": "5dc7515e-8abc-4787-9c6a-b2c121c3d8a7",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-02T02:06:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "973ec570-3d15-49b8-9930-82519f075015",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-02T02:07:00Z",
+    "author": "You"
+  },
+  {
+    "id": "47cab1c1-d623-4c55-a6f9-01d150b5166c",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-02T02:08:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "8c90da71-ac04-4a6f-8484-9f7c9c38573c",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-02T02:09:00Z",
+    "author": "You"
+  },
+  {
+    "id": "e4192686-d47c-4154-93f3-62c0e4fd100a",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-02T02:10:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "32af95ea-5ea9-4d39-a508-94ee9df357d6",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-02T02:11:00Z",
+    "author": "You"
+  },
+  {
+    "id": "b8bc498e-065e-44a4-9212-3677035e132d",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-02T02:12:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "a511ff8a-3396-4d60-8ae8-6aa13e7aa860",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-02T02:13:00Z",
+    "author": "You"
+  },
+  {
+    "id": "51f6e2e3-838c-43fe-8ef3-89fabfc410ba",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-02T02:14:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "f6935087-62ad-443d-84d1-369dc0c711e4",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-02T02:15:00Z",
+    "author": "You"
+  },
+  {
+    "id": "cdf201cf-da8b-4cf7-8fef-a19deda6df69",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-02T02:16:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "947add12-d52d-480e-a1d5-57f3a3ea6034",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-02T02:17:00Z",
+    "author": "You"
+  },
+  {
+    "id": "6c027303-dd2c-46b9-bd3e-3e491dcfedc2",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-02T02:18:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "ed2bd1a6-d3fc-40dd-b070-56e2d56bc336",
+    "text": "Hello!",
+    "isSender": true,
+    "timestamp": "2025-01-02T02:19:00Z",
+    "author": "You"
+  },
+  {
+    "id": "40749e86-dd8d-4d20-a2e4-3a44bcea86af",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-02T02:20:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "c5df82a4-a4cc-41ee-b5b5-6eccfaa033c2",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-02T02:21:00Z",
+    "author": "You"
+  },
+  {
+    "id": "19caf671-2ee5-4b01-a27a-0043e3a3fb67",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-02T02:22:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "02a969bd-6ca1-41e6-8243-ba9388f7c304",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-02T02:23:00Z",
+    "author": "You"
+  },
+  {
+    "id": "a47bf6fb-02d4-454c-8e07-4b50059a39d9",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-02T02:24:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "5bb7ca90-c15c-4c8b-8698-3be296d40080",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-02T02:25:00Z",
+    "author": "You"
+  },
+  {
+    "id": "a25094a6-2aeb-4364-83dc-68d34a90612f",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-02T02:26:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "ac184df4-fa47-4f7d-aaaf-ffc55d94278a",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-02T02:27:00Z",
+    "author": "You"
+  },
+  {
+    "id": "8165f124-8c3c-412c-9f5d-9052f02e7d23",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-02T02:28:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "d217e34b-e38c-42da-9878-690147699a75",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-02T02:29:00Z",
+    "author": "You"
+  },
+  {
+    "id": "88984b88-e4a9-4b51-b1dc-819874137030",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-02T02:30:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "72f36f9c-a318-4e6b-a901-7970c06c79f4",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-02T02:31:00Z",
+    "author": "You"
+  },
+  {
+    "id": "f96d7ca0-52aa-4aa8-a762-6e4514130bcf",
+    "text": "JSON data incoming.",
+    "isSender": false,
+    "timestamp": "2025-01-02T02:32:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "3faaacae-0e16-4816-bac1-e68fe0d017be",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-02T02:33:00Z",
+    "author": "You"
+  },
+  {
+    "id": "b62a7a08-cd2a-4b36-ae3f-caff6547ea1e",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-02T02:34:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "d909df61-f6dc-441a-ac6c-98df3b4e5949",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-02T02:35:00Z",
+    "author": "You"
+  },
+  {
+    "id": "830c3467-dc0a-48d7-aa3e-52dec7a09673",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-02T02:36:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "907ad089-6fd4-48b8-ba25-e553f3ef06b0",
+    "text": "JSON data incoming.",
+    "isSender": false,
+    "timestamp": "2025-01-02T02:37:00Z",
+    "author": "You"
+  },
+  {
+    "id": "a8e286da-e7c3-4c20-8704-1ac06c39f284",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-02T02:38:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "4c6a284b-17e3-4ebc-b523-d1a604b148b8",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-02T02:39:00Z",
+    "author": "You"
+  },
+  {
+    "id": "f8f0492e-3e94-4755-8fda-68d140ebe1e9",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-02T02:40:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "35c322c6-4ee3-42c6-a3c6-ee1c17fc5115",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-02T02:41:00Z",
+    "author": "You"
+  },
+  {
+    "id": "f86d8bbb-8177-4fa7-a562-a35dbfa1976d",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-02T02:42:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "3704335e-e468-4514-8611-5adb709863bc",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-02T02:43:00Z",
+    "author": "You"
+  },
+  {
+    "id": "8bdaed2a-aeb7-43a7-94e5-8f92e1be382c",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-02T02:44:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "b2eb5ea3-8c98-49ab-9207-198aa07c12b4",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-02T02:45:00Z",
+    "author": "You"
+  },
+  {
+    "id": "26550e40-5dae-4e05-ab21-f453764877d5",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-02T02:46:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "09ce51b1-50b7-4c22-8139-a618874c4fb2",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-02T02:47:00Z",
+    "author": "You"
+  },
+  {
+    "id": "8eeda84b-86ae-4907-9497-43bd5164cf06",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-02T02:48:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "b86191e9-47d4-45d9-82e1-1f99ce9fe8c7",
+    "text": "This is a test.",
+    "isSender": true,
+    "timestamp": "2025-01-02T02:49:00Z",
+    "author": "You"
+  },
+  {
+    "id": "69436bfc-6d43-4727-b816-64b12cd38d63",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-02T02:50:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "e2288fac-98da-4acd-be35-8aa4d43a9bae",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-02T02:51:00Z",
+    "author": "You"
+  },
+  {
+    "id": "2a8db51b-a6cf-4538-a0bf-aba0101d0147",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-02T02:52:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "ef3dd3c1-adb7-4f82-b632-05c3c9c160ed",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-02T02:53:00Z",
+    "author": "You"
+  },
+  {
+    "id": "d899f80f-8abe-4f19-8a52-74b861798b02",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-02T02:54:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "c3af03c1-d5bb-4577-98cf-e3470a763231",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-02T02:55:00Z",
+    "author": "You"
+  },
+  {
+    "id": "6e742d2d-5a53-4c37-85b6-b5a8a6a48ec3",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-02T02:56:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "e7b8b534-108d-4f70-b701-40101bedb0ba",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-02T02:57:00Z",
+    "author": "You"
+  },
+  {
+    "id": "bb8b6dc1-1896-4337-b350-40092a8ee5b8",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-02T02:58:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "a88148ee-a6f0-4b35-8ef6-4267d4e8ed39",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-02T02:59:00Z",
+    "author": "You"
+  },
+  {
+    "id": "8f902197-ea05-4740-b25b-470bfbedfc44",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-02T03:00:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "d5562b8b-bb17-4f5b-92f0-79fa7f448e55",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-02T03:01:00Z",
+    "author": "You"
+  },
+  {
+    "id": "bd2e4a9d-1e82-4211-bb22-88cfd087dd5a",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-02T03:02:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "35901769-4c0b-426a-bad2-87bf75ac35f1",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-02T03:03:00Z",
+    "author": "You"
+  },
+  {
+    "id": "97275aa3-933c-49a8-b44f-c27512778bad",
+    "text": "JSON data incoming.",
+    "isSender": false,
+    "timestamp": "2025-01-02T03:04:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "a3703d10-1431-4102-9eb1-be124ebca718",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-02T03:05:00Z",
+    "author": "You"
+  },
+  {
+    "id": "c070f393-739a-4b41-a06b-4e142367e9a6",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-02T03:06:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "62dde0d2-6807-44e9-9331-dcb58f1cb2f3",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-02T03:07:00Z",
+    "author": "You"
+  },
+  {
+    "id": "5f0526ef-7468-4474-ade5-3a2394a3b8ff",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-02T03:08:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "963f1fdd-dcc3-4d86-8589-05410c949c1c",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-02T03:09:00Z",
+    "author": "You"
+  },
+  {
+    "id": "9f785edc-f5d7-4929-89cd-55b086c29aae",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-02T03:10:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "bd15449b-e997-43d7-8b72-615f64afba93",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-02T03:11:00Z",
+    "author": "You"
+  },
+  {
+    "id": "7882379b-08c4-4b7e-bf1f-a5e691ed665b",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-02T03:12:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "9b6dba22-556b-4a9d-8b9d-9c967a2440ac",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-02T03:13:00Z",
+    "author": "You"
+  },
+  {
+    "id": "f8ba07a4-2444-4957-a347-d5a0968fcf82",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-02T03:14:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "e8df70ec-bccb-4e75-baa6-316d577220d2",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-02T03:15:00Z",
+    "author": "You"
+  },
+  {
+    "id": "cec480c4-07c7-4e34-abd2-4d336e491f62",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-02T03:16:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "f684e870-fd88-403b-a01a-647a97f5555a",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-02T03:17:00Z",
+    "author": "You"
+  },
+  {
+    "id": "412dd4b7-fa17-449c-886a-953979020bb7",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-02T03:18:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "540a754e-8702-4ef4-a8c7-e53aeb97741d",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-02T03:19:00Z",
+    "author": "You"
+  },
+  {
+    "id": "f11102e4-d599-4aee-8e30-8171d493eebc",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-02T03:20:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "212895d2-6ff3-42b8-82a9-506b506a6338",
+    "text": "This is a test.",
+    "isSender": true,
+    "timestamp": "2025-01-02T03:21:00Z",
+    "author": "You"
+  },
+  {
+    "id": "50323659-bf24-4062-b64e-a9ba78800a4f",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-02T03:22:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "16c64cd0-ebd3-4bd5-b55a-1478efc6d5cd",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-02T03:23:00Z",
+    "author": "You"
+  },
+  {
+    "id": "82b8524d-c9fe-4524-b43e-e05459996242",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-02T03:24:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "6d6e4d34-c40e-4b85-b4d6-5fc96ce52293",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-02T03:25:00Z",
+    "author": "You"
+  },
+  {
+    "id": "fb16244e-1a61-4829-8980-6666072133d3",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-02T03:26:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "76f6b2dd-ca91-4613-910a-11ec76f0aeea",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-02T03:27:00Z",
+    "author": "You"
+  },
+  {
+    "id": "7ed32b09-7ca1-4198-8b7e-6f45fb034573",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-02T03:28:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "ec3c4d85-5e8b-4f6c-8d3a-077513d9855a",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-02T03:29:00Z",
+    "author": "You"
+  },
+  {
+    "id": "be8299cd-73b0-483f-9355-1918475af074",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-02T03:30:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "7cce7588-2013-49c2-b78e-75dfb45fd498",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-02T03:31:00Z",
+    "author": "You"
+  },
+  {
+    "id": "9e4a57d6-37de-425b-b419-050122305412",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-02T03:32:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "5cfa1698-21e3-4a2c-bc52-43a15e10636d",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-02T03:33:00Z",
+    "author": "You"
+  },
+  {
+    "id": "d2a7c93a-15b5-48ae-81e9-45ee55d29e95",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-02T03:34:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "cfc97b18-b7ac-4192-98a9-d92b1a7689ff",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-02T03:35:00Z",
+    "author": "You"
+  },
+  {
+    "id": "c1f857e2-b987-4c9b-95ff-c692f5bf5b7c",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-02T03:36:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "148eb48d-7c9b-4ebe-bf00-1faea9f16304",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-02T03:37:00Z",
+    "author": "You"
+  },
+  {
+    "id": "7e62012f-9788-4ae9-91f6-1b89992b4aac",
+    "text": "This is a test.",
+    "isSender": true,
+    "timestamp": "2025-01-02T03:38:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "5bb8b617-08d0-46f8-b33f-8719c2718b27",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-02T03:39:00Z",
+    "author": "You"
+  },
+  {
+    "id": "9f39c73f-0aec-413a-95a6-ef1bf53cef40",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-02T03:40:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "1e36c44e-7e32-4dea-816c-39b4379576d6",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-02T03:41:00Z",
+    "author": "You"
+  },
+  {
+    "id": "8f751ed8-3790-4c9c-9099-001338a4c8df",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-02T03:42:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "6c727632-b86b-4e16-b511-c0edabda2958",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-02T03:43:00Z",
+    "author": "You"
+  },
+  {
+    "id": "f2809fe4-87db-4486-9838-e56993a2155c",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-02T03:44:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "70ed98b8-52ae-4043-8749-a12a39676b9f",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-02T03:45:00Z",
+    "author": "You"
+  },
+  {
+    "id": "bd111fd3-689c-4367-83d1-3608c9526f04",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-02T03:46:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "db651ec3-0987-41bd-85b8-9843d1552ac0",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-02T03:47:00Z",
+    "author": "You"
+  },
+  {
+    "id": "6acdbcba-a11e-4b52-859d-2e58ddfe6644",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-02T03:48:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "0d9c8423-dfeb-4391-9be5-7a52ae322bde",
+    "text": "Hello!",
+    "isSender": true,
+    "timestamp": "2025-01-02T03:49:00Z",
+    "author": "You"
+  },
+  {
+    "id": "743a4cfd-039d-42af-b871-8aeadb540b10",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-02T03:50:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "cd82190c-1d4c-4d2d-b404-3f7f82562efd",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-02T03:51:00Z",
+    "author": "You"
+  },
+  {
+    "id": "43c5969f-f959-40aa-8f49-79f885c0f6de",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-02T03:52:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "b125bb1e-67ed-4bcb-9edf-c5ec475be733",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-02T03:53:00Z",
+    "author": "You"
+  },
+  {
+    "id": "4e8d5406-4462-4d12-a51f-93ed5abed533",
+    "text": "What\u2019s up?",
+    "isSender": false,
+    "timestamp": "2025-01-02T03:54:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "441d041b-eda9-4329-bd8e-c60fe3d9f0b1",
+    "text": "Did you get the email?",
+    "isSender": true,
+    "timestamp": "2025-01-02T03:55:00Z",
+    "author": "You"
+  },
+  {
+    "id": "77d114f4-6e00-412f-b4db-42fd08ffc69a",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-02T03:56:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "ab24474b-bbb6-4aa3-baac-650562fe73fd",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-02T03:57:00Z",
+    "author": "You"
+  },
+  {
+    "id": "3ae57e36-ce3e-42c9-91a2-9935469944ab",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-02T03:58:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "e0e32e39-6ad9-4d19-b633-64b1e8375970",
+    "text": "This is a test.",
+    "isSender": true,
+    "timestamp": "2025-01-02T03:59:00Z",
+    "author": "You"
+  },
+  {
+    "id": "c94fd6a0-a1bb-4c14-97b5-7ac265926878",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-02T04:00:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "ae04e377-a4b1-4984-b1fc-a70bb2b55ab7",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-02T04:01:00Z",
+    "author": "You"
+  },
+  {
+    "id": "8046f053-2941-4e6c-9b15-e06998fdd267",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-02T04:02:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "ea4cf286-13dd-4cb2-bfa0-efd40c868bf6",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-02T04:03:00Z",
+    "author": "You"
+  },
+  {
+    "id": "6d0fa10a-682b-4b29-9432-caf39eb9aa3b",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-02T04:04:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "8e942ef8-95c8-4029-80b9-69d9767763ea",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-02T04:05:00Z",
+    "author": "You"
+  },
+  {
+    "id": "866657d9-460c-45ce-9718-f0f2f5581ac6",
+    "text": "See you soon!",
+    "isSender": false,
+    "timestamp": "2025-01-02T04:06:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "69f5e906-a9a0-43f1-9494-17f87cfe0dc4",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-02T04:07:00Z",
+    "author": "You"
+  },
+  {
+    "id": "39f10ce6-0071-47a8-b92c-4a92ed39ffdc",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-02T04:08:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "b0fb3bb4-ae58-4424-896f-007c605f1fab",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-02T04:09:00Z",
+    "author": "You"
+  },
+  {
+    "id": "9229e3a9-ff5c-4cc8-919a-3c258f66022c",
+    "text": "Awesome!",
+    "isSender": false,
+    "timestamp": "2025-01-02T04:10:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "222af5ea-e814-42ab-8193-39a780960db0",
+    "text": "Sample message.",
+    "isSender": false,
+    "timestamp": "2025-01-02T04:11:00Z",
+    "author": "You"
+  },
+  {
+    "id": "587e62bd-293a-441c-b10b-5267d1e94858",
+    "text": "How are you?",
+    "isSender": true,
+    "timestamp": "2025-01-02T04:12:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "b6dc6cd7-88ac-4b04-936e-a942ebdfba4a",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-02T04:13:00Z",
+    "author": "You"
+  },
+  {
+    "id": "4dc43472-4837-4e39-9a2f-d379b564a29c",
+    "text": "JSON data incoming.",
+    "isSender": false,
+    "timestamp": "2025-01-02T04:14:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "a236cfcd-b495-4a50-b91a-cdb3da7c36cd",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-02T04:15:00Z",
+    "author": "You"
+  },
+  {
+    "id": "ec05329d-37a3-4f22-b4b9-f701a8ede786",
+    "text": "Did you get the email?",
+    "isSender": false,
+    "timestamp": "2025-01-02T04:16:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "a3bfdab9-ab36-44e2-9f03-952938be2d05",
+    "text": "What\u2019s up?",
+    "isSender": true,
+    "timestamp": "2025-01-02T04:17:00Z",
+    "author": "You"
+  },
+  {
+    "id": "1d321ab7-86c6-4cc9-b319-1212ead7b740",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-02T04:18:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "9f4a36a3-c10c-454d-9e43-747e925deca5",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-02T04:19:00Z",
+    "author": "You"
+  },
+  {
+    "id": "1ee28fc5-1c06-468e-b442-727c18e6216f",
+    "text": "This is a test.",
+    "isSender": false,
+    "timestamp": "2025-01-02T04:20:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "671b37a0-7629-48e0-9751-a33806997c09",
+    "text": "JSON data incoming.",
+    "isSender": false,
+    "timestamp": "2025-01-02T04:21:00Z",
+    "author": "You"
+  },
+  {
+    "id": "5b030d9a-100c-41e8-849b-8fc421db95c5",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-02T04:22:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "f9c158f6-e482-42e4-b1ad-20fee4391493",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-02T04:23:00Z",
+    "author": "You"
+  },
+  {
+    "id": "047a9df9-d291-46c7-8f58-de4f54ed00b4",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-02T04:24:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "c7fde09a-88b8-476e-9c09-ddd8150c0fa7",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-02T04:25:00Z",
+    "author": "You"
+  },
+  {
+    "id": "b48fe9fc-6ad1-422d-a2e7-d6c4be23e0fa",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-02T04:26:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "786a8857-ee3c-48ef-bfa7-9b798f952cdd",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-02T04:27:00Z",
+    "author": "You"
+  },
+  {
+    "id": "15c1cb91-45ac-4622-8022-8f704e3276a0",
+    "text": "Awesome!",
+    "isSender": true,
+    "timestamp": "2025-01-02T04:28:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "59972fc2-810e-428a-bed4-431fed08a605",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-02T04:29:00Z",
+    "author": "You"
+  },
+  {
+    "id": "da6e2da7-ebeb-4a2e-aac2-190e2c688668",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": false,
+    "timestamp": "2025-01-02T04:30:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "1d6f3f8f-59f3-4b31-8787-ccb9a01e2c0d",
+    "text": "See you soon!",
+    "isSender": true,
+    "timestamp": "2025-01-02T04:31:00Z",
+    "author": "You"
+  },
+  {
+    "id": "058b66f9-058c-4a72-8676-21797eab9c4a",
+    "text": "Let\u2019s meet at 5.",
+    "isSender": true,
+    "timestamp": "2025-01-02T04:32:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "3b4c7cfd-8ebe-4d60-b64d-537b393e33e9",
+    "text": "JSON data incoming.",
+    "isSender": true,
+    "timestamp": "2025-01-02T04:33:00Z",
+    "author": "You"
+  },
+  {
+    "id": "b385038e-44b8-4b13-8c0d-ae5259ec4ab9",
+    "text": "JSON data incoming.",
+    "isSender": false,
+    "timestamp": "2025-01-02T04:34:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "28bec70a-245c-477c-a13c-3a19e94e82fd",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-02T04:35:00Z",
+    "author": "You"
+  },
+  {
+    "id": "4180d9f8-cb39-4bfc-9860-781724fdd00e",
+    "text": "Sample message.",
+    "isSender": true,
+    "timestamp": "2025-01-02T04:36:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "3f4784c2-4419-4795-ba2a-9915b0728311",
+    "text": "Hello!",
+    "isSender": false,
+    "timestamp": "2025-01-02T04:37:00Z",
+    "author": "You"
+  },
+  {
+    "id": "3c25aad1-37f1-4b1a-ba5e-7097f043ccf9",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-02T04:38:00Z",
+    "author": "Bot"
+  },
+  {
+    "id": "6fb0d6a2-804e-451d-adb5-de9d9f7fb697",
+    "text": "How are you?",
+    "isSender": false,
+    "timestamp": "2025-01-02T04:39:00Z",
+    "author": "You"
+  }
+]
