@@ -2,8 +2,6 @@
 //  MessageRepository.swift
 //  MessageApp
 //
-//  Created by NokNokMac on 04.08.25.
-//
 
 
 import CoreData
