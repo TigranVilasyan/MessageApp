@@ -2,7 +2,6 @@
 //  ViewController.swift
 //  MessageApp
 //
-//  Created by NokNokMac on 01.08.25.
 //
 
 import UIKit

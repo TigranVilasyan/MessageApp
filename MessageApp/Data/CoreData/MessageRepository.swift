@@ -36,10 +36,10 @@ final class MessageRepository: MessageRepositoryProtocol {
         // Reverse to return oldest to newest (e.g., for displaying in chat UI)
         return cdMessages.reversed().map {
             MessageEntity(
-                id: $0.id,
+                id: $0.id!,
                 text: $0.text ?? "",
                 isSender: $0.isSender,
-                timestamp: ISO8601DateFormatter().string(from: $0.timestamp),
+                timestamp: ISO8601DateFormatter().string(from: $0.timestamp!),
                 author: $0.author ?? ""
             )
         }
